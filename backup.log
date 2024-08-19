@@ -3,3 +3,142 @@ mount: /mnt/plex: must be superuser to use mount.
 Drive mounted successfully.
 Backing up /home/oloo/Documents to /mnt/plex/BackUps
 sending incremental file list
+utils/
+utils/backup.log
+utils/git_auto_push.log
+utils/git_auto_push.sh
+utils/.git/
+utils/.git/COMMIT_EDITMSG
+utils/.git/FETCH_HEAD
+utils/.git/HEAD
+utils/.git/ORIG_HEAD
+utils/.git/config
+utils/.git/description
+utils/.git/index
+utils/.git/branches/
+utils/.git/hooks/
+utils/.git/hooks/applypatch-msg.sample
+utils/.git/hooks/commit-msg.sample
+utils/.git/hooks/fsmonitor-watchman.sample
+utils/.git/hooks/post-update.sample
+utils/.git/hooks/pre-applypatch.sample
+utils/.git/hooks/pre-commit.sample
+utils/.git/hooks/pre-merge-commit.sample
+utils/.git/hooks/pre-push.sample
+utils/.git/hooks/pre-rebase.sample
+utils/.git/hooks/pre-receive.sample
+utils/.git/hooks/prepare-commit-msg.sample
+utils/.git/hooks/push-to-checkout.sample
+utils/.git/hooks/sendemail-validate.sample
+utils/.git/hooks/update.sample
+utils/.git/info/
+utils/.git/info/exclude
+utils/.git/logs/
+utils/.git/logs/HEAD
+utils/.git/logs/refs/
+utils/.git/logs/refs/heads/
+utils/.git/logs/refs/heads/main
+utils/.git/logs/refs/remotes/
+utils/.git/logs/refs/remotes/origin/
+utils/.git/logs/refs/remotes/origin/main
+utils/.git/objects/
+utils/.git/objects/0c/
+utils/.git/objects/0c/ebcc547613281272d9a3caf951c453c99b9176
+utils/.git/objects/18/
+utils/.git/objects/18/0595e858a2fcb2da2ce2fd6251319661e78e9f
+utils/.git/objects/18/9896e78aae1f8a34dc977af5011697df5c7f1f
+utils/.git/objects/1f/
+utils/.git/objects/1f/c56ba56730e31aa71b604193650661800bf927
+utils/.git/objects/2d/
+utils/.git/objects/2d/ed04fab6ce1b58a011d7cd40f1f906b94535cf
+utils/.git/objects/4c/
+utils/.git/objects/4c/49bd78f1d08f2bc09fa0bd8191ed38b7dce5e3
+utils/.git/objects/4d/
+utils/.git/objects/4d/98a5086e19ad58a4260f8fa02d743dde2af168
+utils/.git/objects/5e/
+utils/.git/objects/5e/f3182a7166ec06d8c4f73206a5c8c6ad93db9a
+utils/.git/objects/64/
+utils/.git/objects/64/d4c65237db2bbb3fcbc150f175cef498648b7b
+utils/.git/objects/75/
+utils/.git/objects/75/0be658d9384013b81f4fe6a40e69179d6e1f80
+utils/.git/objects/7d/
+utils/.git/objects/7d/ade7e62fdbcd658ed9c4c531f67e498074bcc0
+utils/.git/objects/91/
+utils/.git/objects/91/67caa1a1d4bc8887c337df2400372ccd6c72c7
+utils/.git/objects/91/a8f47b61e361c706fe125fb4d5dd9e5461f065
+utils/.git/objects/96/
+utils/.git/objects/96/b49b14d377bc38829e3105730f5479d4245a14
+utils/.git/objects/a0/
+utils/.git/objects/a0/8e86bf6cde17f967cf11ec0d80ab02011eb005
+utils/.git/objects/a6/
+utils/.git/objects/a6/b9d3f6ec1836cec5cef7d82a03f98758b643ca
+utils/.git/objects/b8/
+utils/.git/objects/b8/a1b6164bcb2064388ab6b2e28fa8d36d4fcc35
+utils/.git/objects/bb/
+utils/.git/objects/bb/1d108410515e5309c0c1754582194837aad06e
+utils/.git/objects/bf/
+utils/.git/objects/bf/11fa18f08df49d90425e1da179d775798fc03a
+utils/.git/objects/bf/e394f94b8ec87b5f94b546dc2c553ceb7e3c05
+utils/.git/objects/c0/
+utils/.git/objects/c0/7a1fea3418754d9179e2adb1b9f469aa098579
+utils/.git/objects/c0/9a7751dd64332964ef5a72ea61bedf1ac63df9
+utils/.git/objects/c4/
+utils/.git/objects/c4/0c7b290a1c7ee030bac367f29109cbf9df917e
+utils/.git/objects/c4/3990fffd890383ec7679e447eff66c473ccbea
+utils/.git/objects/db/
+utils/.git/objects/db/0bc85b0693280dfd6c30583b34e89bc34ef6bb
+utils/.git/objects/e6/
+utils/.git/objects/e6/9de29bb2d1d6434b8b29ae775ad8c2e48c5391
+utils/.git/objects/f0/
+utils/.git/objects/f0/d55d9fd9a9258689577e5e5a2ef4d0ddcbae7d
+utils/.git/objects/f1/
+utils/.git/objects/f1/c05a25a86499ce3fd929c5e73ddd1994fe5326
+utils/.git/objects/fa/
+utils/.git/objects/fa/51fb7fa056bdde4119e22d5370b9d53bef862e
+utils/.git/objects/info/
+utils/.git/objects/pack/
+utils/.git/refs/
+utils/.git/refs/heads/
+utils/.git/refs/heads/main
+utils/.git/refs/remotes/
+utils/.git/refs/remotes/origin/
+utils/.git/refs/remotes/origin/main
+utils/.git/refs/tags/
+
+sent 4,764,286 bytes  received 2,649 bytes  866,715.45 bytes/sec
+total size is 17,748,909,343  speedup is 3,723.34
+Backing up /home/oloo/DataGripProjects to /mnt/plex/BackUps
+sending incremental file list
+
+sent 5,234 bytes  received 78 bytes  10,624.00 bytes/sec
+total size is 2,756,213  speedup is 518.87
+Backing up /home/oloo/IdeaProjects to /mnt/plex/BackUps
+sending incremental file list
+JavaSeedSpeedTest/.git/
+MWM_PMS-API/.git/
+MWM_PMS-BackEndAPI/.git/
+MultithreadingConnectionPools/.git/
+ORM-BasedMassDataGenerator/.git/
+Populate_MWM-PMS/.git/
+mwm_pms/.git/
+simple_survey_api/.git/
+
+sent 725,796 bytes  received 4,318 bytes  132,748.00 bytes/sec
+total size is 13,215,854,341  speedup is 18,101.08
+Backing up /home/oloo/Code to /mnt/plex/BackUps
+sending incremental file list
+DemoRPC/.git/
+Flutter/basic_quiz_app/.git/
+Flutter/expense_tracker/.git/
+Flutter/first_app/.git/
+Flutter/mwm_pms_desktopapp/.git/
+Flutter/simple_survey_client/.git/
+Flutter/sky_survey_app/.git/
+LeetCode/.git/
+NodeJS/mwm-pms-web-react-ui-decluttered/.git/
+
+sent 9,210,184 bytes  received 36,674 bytes  217,573.13 bytes/sec
+total size is 12,379,489,322  speedup is 1,338.78
+umount: /etc/fstab: parse error at line 17 -- ignored
+umount: /mnt/plex: must be superuser to unmount.
+Failed to unmount the drive.
