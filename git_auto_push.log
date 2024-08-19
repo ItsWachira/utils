@@ -2228,3 +2228,140 @@ No changes in /home/oloo/Code/Flutter/simple_survey_client
 [2024-08-19 11:20:05]
 Processing repository at /home/oloo/Documents/utils
 Changes detected in /home/oloo/Documents/utils. Committing and pushing...
+[main 26165d3] Update
+ 1 file changed, 131 insertions(+)
+remote: Repository not found.
+fatal: Authentication failed for 'https://github.com/Olooce/utils.git/'
+[2024-08-19 11:20:06]
+Changes committed and pushed for /home/oloo/Documents/utils
+-------------------------------------------------
+
+-------------------------------------------------
+[2024-08-19 11:30:00]
+Processing repository at /home/oloo/IdeaProjects/JavaSeedSpeedTest
+[2024-08-19 11:30:00]
+No changes in /home/oloo/IdeaProjects/JavaSeedSpeedTest
+-------------------------------------------------
+
+-------------------------------------------------
+[2024-08-19 11:30:00]
+Processing repository at /home/oloo/IdeaProjects/MultithreadingConnectionPools
+[2024-08-19 11:30:00]
+No changes in /home/oloo/IdeaProjects/MultithreadingConnectionPools
+-------------------------------------------------
+
+-------------------------------------------------
+[2024-08-19 11:30:00]
+Processing repository at /home/oloo/IdeaProjects/ORM-BasedMassDataGenerator
+[2024-08-19 11:30:00]
+No changes in /home/oloo/IdeaProjects/ORM-BasedMassDataGenerator
+-------------------------------------------------
+
+-------------------------------------------------
+[2024-08-19 11:30:00]
+Processing repository at /home/oloo/IdeaProjects/Populate_MWM-PMS
+[2024-08-19 11:30:00]
+No changes in /home/oloo/IdeaProjects/Populate_MWM-PMS
+-------------------------------------------------
+
+-------------------------------------------------
+[2024-08-19 11:30:00]
+Processing repository at /home/oloo/IdeaProjects/MWM_PMS-BackEndAPI
+[2024-08-19 11:30:00]
+No changes in /home/oloo/IdeaProjects/MWM_PMS-BackEndAPI
+-------------------------------------------------
+
+-------------------------------------------------
+[2024-08-19 11:30:00]
+Processing repository at /home/oloo/IdeaProjects/MWM_PMS-API
+[2024-08-19 11:30:00]
+No changes in /home/oloo/IdeaProjects/MWM_PMS-API
+-------------------------------------------------
+
+-------------------------------------------------
+[2024-08-19 11:30:00]
+Processing repository at /home/oloo/IdeaProjects/mwm_pms
+[2024-08-19 11:30:00]
+No changes in /home/oloo/IdeaProjects/mwm_pms
+-------------------------------------------------
+
+-------------------------------------------------
+[2024-08-19 11:30:00]
+Processing repository at /home/oloo/IdeaProjects/simple_survey_api
+[2024-08-19 11:30:00]
+No changes in /home/oloo/IdeaProjects/simple_survey_api
+-------------------------------------------------
+
+-------------------------------------------------
+[2024-08-19 11:30:00]
+Processing repository at /home/oloo/Code/Flutter/mwm_pms_desktopapp
+[2024-08-19 11:30:00]
+No changes in /home/oloo/Code/Flutter/mwm_pms_desktopapp
+-------------------------------------------------
+
+-------------------------------------------------
+[2024-08-19 11:30:00]
+Processing repository at /home/oloo/Code/Flutter/first_app
+[2024-08-19 11:30:00]
+No changes in /home/oloo/Code/Flutter/first_app
+-------------------------------------------------
+
+-------------------------------------------------
+[2024-08-19 11:30:00]
+Processing repository at /home/oloo/Code/Flutter/basic_quiz_app
+[2024-08-19 11:30:00]
+No changes in /home/oloo/Code/Flutter/basic_quiz_app
+-------------------------------------------------
+
+-------------------------------------------------
+[2024-08-19 11:30:00]
+Processing repository at /home/oloo/Code/Flutter/expense_tracker
+[2024-08-19 11:30:00]
+No changes in /home/oloo/Code/Flutter/expense_tracker
+-------------------------------------------------
+
+-------------------------------------------------
+[2024-08-19 11:30:00]
+Processing repository at /home/oloo/Code/NodeJS/mwm-pms-web-react-ui-decluttered
+[2024-08-19 11:30:01]
+No changes in /home/oloo/Code/NodeJS/mwm-pms-web-react-ui-decluttered
+-------------------------------------------------
+
+-------------------------------------------------
+[2024-08-19 11:30:01]
+Processing repository at /home/oloo/Code/LeetCode
+[2024-08-19 11:30:01]
+No changes in /home/oloo/Code/LeetCode
+-------------------------------------------------
+
+-------------------------------------------------
+[2024-08-19 11:30:01]
+Processing repository at /home/oloo/Code/DemoRPC
+[2024-08-19 11:30:01]
+No changes in /home/oloo/Code/DemoRPC
+-------------------------------------------------
+
+-------------------------------------------------
+[2024-08-19 11:30:01]
+Processing repository at /home/oloo/Code/Flutter/sky_survey_app
+[2024-08-19 11:30:01]
+No changes in /home/oloo/Code/Flutter/sky_survey_app
+-------------------------------------------------
+
+-------------------------------------------------
+[2024-08-19 11:30:01]
+Processing repository at /home/oloo/Code/Flutter/simple_survey_client
+Changes detected in /home/oloo/Code/Flutter/simple_survey_client. Committing and pushing...
+[main 96e63cf] More updates
+ 1 file changed, 25 insertions(+)
+ create mode 100644 .vscode/launch.json
+remote: Repository not found.
+fatal: Authentication failed for 'https://github.com/Olooce/simple_survey_client_V2/'
+[2024-08-19 11:30:02]
+Changes committed and pushed for /home/oloo/Code/Flutter/simple_survey_client
+-------------------------------------------------
+
+-------------------------------------------------
+[2024-08-19 11:30:02]
+Processing repository at /home/oloo/Documents/utils
+Changes detected in /home/oloo/Documents/utils. Committing and pushing...
