@@ -1422,3 +1422,214 @@ mount: /mnt/plex: must be superuser to use mount.
 Drive mounted successfully.
 Backing up /home/oloo/Documents to /mnt/plex/BackUps
 sending incremental file list
+utils/backup.log
+utils/git_auto_push.log
+utils/.git/
+utils/.git/COMMIT_EDITMSG
+utils/.git/index
+utils/.git/logs/HEAD
+utils/.git/logs/refs/heads/main
+utils/.git/objects/
+utils/.git/objects/0d/
+utils/.git/objects/0d/903fcc07327374cbfe1ec3b51ebdbe4e39b2e2
+utils/.git/objects/0f/
+utils/.git/objects/0f/c890384b9c3121effe2d2e527cda28e2f6d344
+utils/.git/objects/10/
+utils/.git/objects/10/902e54c9d96375054b3ed029256474c95c476b
+utils/.git/objects/16/
+utils/.git/objects/16/380e5d715d786ae21dc676d7704b8c1bfae44e
+utils/.git/objects/31/
+utils/.git/objects/31/f8a0666d71db09a39a560139acc7b7772350df
+utils/.git/objects/3b/
+utils/.git/objects/3b/daf1b9f93f085283c7268b7001b0deed5b7acc
+utils/.git/objects/6d/
+utils/.git/objects/6d/6a6b7c5f911fa8cf74db96bed75fa5d910bd84
+utils/.git/objects/7a/
+utils/.git/objects/7a/17f78755064ff8df34d52ccdaf85e9ea73452b
+utils/.git/objects/ab/
+utils/.git/objects/ab/a984cc1ed9fdbcd11ef8b5729242b987f577d4
+utils/.git/objects/b7/
+utils/.git/objects/b7/e158a55619d2e6e537081af2de88194a3a2d01
+utils/.git/objects/e2/
+utils/.git/objects/e2/69e369d8014504b8d4e4eb6e5611a26f54b6c3
+utils/.git/refs/heads/
+utils/.git/refs/heads/main
+
+sent 478,903 bytes  received 1,889 bytes  87,416.73 bytes/sec
+total size is 17,749,588,690  speedup is 36,917.40
+Backing up /home/oloo/DataGripProjects to /mnt/plex/BackUps
+sending incremental file list
+
+sent 5,234 bytes  received 78 bytes  10,624.00 bytes/sec
+total size is 2,755,875  speedup is 518.80
+Backing up /home/oloo/IdeaProjects to /mnt/plex/BackUps
+sending incremental file list
+JavaSeedSpeedTest/.git/
+MWM_PMS-API/.git/
+MWM_PMS-BackEndAPI/.git/
+MultithreadingConnectionPools/.git/
+ORM-BasedMassDataGenerator/.git/
+Populate_MWM-PMS/.git/
+mwm_pms/.git/
+simple_survey_api/
+simple_survey_api/.gitignore
+simple_survey_api/pom.xml
+simple_survey_api/.git/
+simple_survey_api/.git/COMMIT_EDITMSG
+simple_survey_api/.git/index
+simple_survey_api/.git/logs/HEAD
+simple_survey_api/.git/logs/refs/heads/master
+simple_survey_api/.git/objects/
+simple_survey_api/.git/objects/1d/
+simple_survey_api/.git/objects/1d/cafe22ee4066301f72fe288af5fad468c1b6f2
+simple_survey_api/.git/objects/4f/
+simple_survey_api/.git/objects/4f/0637d6bdee2fb40078360449369deb99db9c56
+simple_survey_api/.git/objects/55/
+simple_survey_api/.git/objects/55/ada79bf72c74767b5acbcf557a5fce4601f90b
+simple_survey_api/.git/objects/5e/
+simple_survey_api/.git/objects/5e/bacf2bd6de6a447d00075b4133be6119acd4f1
+simple_survey_api/.git/objects/a0/
+simple_survey_api/.git/objects/a0/8ba07dd8d8ec9736cb960a9fc19944c0d653bb
+simple_survey_api/.git/objects/ff/
+simple_survey_api/.git/objects/ff/c0fbcaedf771af8d43cd119994b807d38eac4e
+simple_survey_api/.git/refs/heads/
+simple_survey_api/.git/refs/heads/master
+simple_survey_api/.idea/
+simple_survey_api/.idea/workspace.xml
+simple_survey_api/target/
+simple_survey_api/target/simple_survey_api-1.0-SNAPSHOT.jar
+simple_survey_api/target/classes/
+simple_survey_api/target/classes/db.properties
+simple_survey_api/target/classes/logback.xml
+simple_survey_api/target/classes/serviceAccountKey.json
+simple_survey_api/target/classes/oloo/
+simple_survey_api/target/classes/oloo/ssa/
+simple_survey_api/target/classes/oloo/ssa/SurveyApi.class
+simple_survey_api/target/classes/oloo/ssa/auth/
+simple_survey_api/target/classes/oloo/ssa/auth/FirebaseAuthMiddleware.class
+simple_survey_api/target/classes/oloo/ssa/auth/FirebaseAuthService.class
+simple_survey_api/target/classes/oloo/ssa/auth/FirebaseInitializer.class
+simple_survey_api/target/classes/oloo/ssa/config/
+simple_survey_api/target/classes/oloo/ssa/config/DataSourceConfig.class
+simple_survey_api/target/classes/oloo/ssa/entities/
+simple_survey_api/target/classes/oloo/ssa/entities/Creator.class
+simple_survey_api/target/classes/oloo/ssa/entities/Option.class
+simple_survey_api/target/classes/oloo/ssa/entities/Question.class
+simple_survey_api/target/classes/oloo/ssa/entities/Response.class
+simple_survey_api/target/classes/oloo/ssa/entities/SelectedOption.class
+simple_survey_api/target/classes/oloo/ssa/entities/Survey.class
+simple_survey_api/target/classes/oloo/ssa/entities/SurveyResponse.class
+simple_survey_api/target/classes/oloo/ssa/entities/UploadedFile.class
+simple_survey_api/target/classes/oloo/ssa/handlers/
+simple_survey_api/target/classes/oloo/ssa/handlers/CreatorHandler.class
+simple_survey_api/target/classes/oloo/ssa/handlers/FileUploadHandler.class
+simple_survey_api/target/classes/oloo/ssa/handlers/OptionHandler.class
+simple_survey_api/target/classes/oloo/ssa/handlers/QuestionHandler.class
+simple_survey_api/target/classes/oloo/ssa/handlers/ResponseHandler.class
+simple_survey_api/target/classes/oloo/ssa/handlers/SurveyHandler.class
+simple_survey_api/target/classes/oloo/ssa/utils/
+simple_survey_api/target/classes/oloo/ssa/utils/ColorConsoleAppender.class
+simple_survey_api/target/classes/oloo/ssa/utils/DatabaseUtil$RowMapper.class
+simple_survey_api/target/classes/oloo/ssa/utils/DatabaseUtil.class
+simple_survey_api/target/classes/oloo/ssa/utils/LoggingMiddleware.class
+simple_survey_api/target/generated-sources/
+simple_survey_api/target/generated-sources/annotations/
+simple_survey_api/target/generated-test-sources/
+simple_survey_api/target/generated-test-sources/test-annotations/
+simple_survey_api/target/maven-archiver/
+simple_survey_api/target/maven-archiver/pom.properties
+simple_survey_api/target/maven-status/
+simple_survey_api/target/maven-status/maven-compiler-plugin/
+simple_survey_api/target/maven-status/maven-compiler-plugin/compile/
+simple_survey_api/target/maven-status/maven-compiler-plugin/compile/default-compile/
+simple_survey_api/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+simple_survey_api/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+simple_survey_api/target/maven-status/maven-compiler-plugin/testCompile/
+simple_survey_api/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/
+simple_survey_api/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst
+simple_survey_api/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+simple_survey_api/target/test-classes/
+
+sent 913,415 bytes  received 5,307 bytes  167,040.36 bytes/sec
+total size is 13,215,905,590  speedup is 14,385.10
+Backing up /home/oloo/Code to /mnt/plex/BackUps
+sending incremental file list
+DemoRPC/.git/
+Flutter/basic_quiz_app/.git/
+Flutter/expense_tracker/.git/
+Flutter/first_app/.git/
+Flutter/mwm_pms_desktopapp/.git/
+Flutter/simple_survey_client/.flutter-plugins
+Flutter/simple_survey_client/.flutter-plugins-dependencies
+Flutter/simple_survey_client/pubspec.lock
+Flutter/simple_survey_client/pubspec.yaml
+Flutter/simple_survey_client/.dart_tool/package_config.json
+Flutter/simple_survey_client/.dart_tool/package_config_subset
+Flutter/simple_survey_client/.dart_tool/version
+Flutter/simple_survey_client/.dart_tool/dartpad/web_plugin_registrant.dart
+Flutter/simple_survey_client/.git/
+Flutter/simple_survey_client/.git/COMMIT_EDITMSG
+Flutter/simple_survey_client/.git/FETCH_HEAD
+Flutter/simple_survey_client/.git/index
+Flutter/simple_survey_client/.git/logs/HEAD
+Flutter/simple_survey_client/.git/logs/refs/heads/main
+Flutter/simple_survey_client/.git/objects/
+Flutter/simple_survey_client/.git/objects/29/
+Flutter/simple_survey_client/.git/objects/29/944d5b14ae71dd0d240cdbcc26f083ddd538cd
+Flutter/simple_survey_client/.git/objects/29/9d8dbef5d8b81579112c02b2b7d930686fb964
+Flutter/simple_survey_client/.git/objects/2b/
+Flutter/simple_survey_client/.git/objects/2b/8a202979355c252d5556e44a80d1befc3011d5
+Flutter/simple_survey_client/.git/objects/31/
+Flutter/simple_survey_client/.git/objects/31/d49bff1eb16e3c9b65626bb908ffc5e240de28
+Flutter/simple_survey_client/.git/objects/34/
+Flutter/simple_survey_client/.git/objects/34/a12a6e489f13d31f2797b9ab98df217627c5f4
+Flutter/simple_survey_client/.git/objects/37/
+Flutter/simple_survey_client/.git/objects/37/301ad3d5568a7eb272a20829881fb857673c0d
+Flutter/simple_survey_client/.git/objects/3f/
+Flutter/simple_survey_client/.git/objects/3f/f067d9d6b03657aac02064bf682128e8d0ee75
+Flutter/simple_survey_client/.git/objects/53/
+Flutter/simple_survey_client/.git/objects/53/c32ed273880fcfac6b28c0d6c724666d83d727
+Flutter/simple_survey_client/.git/objects/93/
+Flutter/simple_survey_client/.git/objects/93/ddf8e606f8e59a8a7cf59149d9bee5faf43620
+Flutter/simple_survey_client/.git/objects/94/
+Flutter/simple_survey_client/.git/objects/94/84684cb1aad33c6b882f6f33dcd615f0eab759
+Flutter/simple_survey_client/.git/objects/ad/
+Flutter/simple_survey_client/.git/objects/ad/378bd5e2e130594feb46952b692725cb0ff2f8
+Flutter/simple_survey_client/.git/objects/d1/
+Flutter/simple_survey_client/.git/objects/d1/41b74f57d82511dec58eaab713ca3381fb1b29
+Flutter/simple_survey_client/.git/objects/ea/
+Flutter/simple_survey_client/.git/objects/ea/394d0596303281be48620d387b6f909543505a
+Flutter/simple_survey_client/.git/refs/heads/
+Flutter/simple_survey_client/.git/refs/heads/main
+Flutter/simple_survey_client/android/.gradle/7.6.3/checksums/checksums.lock
+Flutter/simple_survey_client/android/.gradle/7.6.3/dependencies-accessors/dependencies-accessors.lock
+Flutter/simple_survey_client/android/.gradle/7.6.3/fileChanges/last-build.bin
+Flutter/simple_survey_client/android/.gradle/7.6.3/fileHashes/fileHashes.lock
+Flutter/simple_survey_client/android/.gradle/buildOutputCleanup/buildOutputCleanup.lock
+Flutter/simple_survey_client/android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java
+Flutter/simple_survey_client/ios/Runner/GeneratedPluginRegistrant.h
+Flutter/simple_survey_client/ios/Runner/GeneratedPluginRegistrant.m
+Flutter/simple_survey_client/lib/main.dart
+Flutter/simple_survey_client/lib/screens/login_screen.dart
+Flutter/simple_survey_client/linux/flutter/generated_plugin_registrant.cc
+Flutter/simple_survey_client/linux/flutter/generated_plugin_registrant.h
+Flutter/simple_survey_client/linux/flutter/generated_plugins.cmake
+Flutter/simple_survey_client/linux/flutter/ephemeral/
+Flutter/simple_survey_client/linux/flutter/ephemeral/.plugin_symlinks/
+Flutter/simple_survey_client/macos/Flutter/GeneratedPluginRegistrant.swift
+Flutter/simple_survey_client/windows/flutter/generated_plugin_registrant.cc
+Flutter/simple_survey_client/windows/flutter/generated_plugin_registrant.h
+Flutter/simple_survey_client/windows/flutter/generated_plugins.cmake
+Flutter/simple_survey_client/windows/flutter/ephemeral/
+Flutter/simple_survey_client/windows/flutter/ephemeral/.plugin_symlinks/
+Flutter/simple_survey_client/windows/flutter/ephemeral/.plugin_symlinks/firebase_auth -> /home/oloo/.pub-cache/hosted/pub.dev/firebase_auth-4.16.0/
+Flutter/simple_survey_client/windows/flutter/ephemeral/.plugin_symlinks/firebase_core -> /home/oloo/.pub-cache/hosted/pub.dev/firebase_core-2.24.2/
+Flutter/sky_survey_app/.git/
+LeetCode/.git/
+NodeJS/mwm-pms-web-react-ui-decluttered/.git/
+
+sent 9,336,461 bytes  received 37,575 bytes  157,546.82 bytes/sec
+total size is 12,379,571,265  speedup is 1,320.62
+umount: /etc/fstab: parse error at line 17 -- ignored
+umount: /mnt/plex: must be superuser to unmount.
+Failed to unmount the drive.
