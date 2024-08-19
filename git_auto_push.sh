@@ -11,7 +11,7 @@ REPO_PATHS=(
   "/home/oloo/IdeaProjects/MWM_PMS-BackEndAPI"
   "/home/oloo/IdeaProjects/MWM_PMS-API"
   "/home/oloo/IdeaProjects/mwm_pms"
-   "/home/oloo/IdeaProjects/simple_survey_api"
+  "/home/oloo/IdeaProjects/simple_survey_api"
   "/home/oloo/Code/Flutter/mwm_pms_desktopapp"
   "/home/oloo/Code/Flutter/first_app"
   "/home/oloo/Code/Flutter/basic_quiz_app"
@@ -19,8 +19,9 @@ REPO_PATHS=(
   "/home/oloo/Code/NodeJS/mwm-pms-web-react-ui-decluttered"
   "/home/oloo/Code/LeetCode"
   "/home/oloo/Code/DemoRPC"
-   "/home/oloo/Code/Flutter/sky_survey_app"
+  "/home/oloo/Code/Flutter/sky_survey_app"
   "/home/oloo/Code/Flutter/simple_survey_client"
+  "/home/oloo/Documents/utils"
 )
 
 # Commit messages array
