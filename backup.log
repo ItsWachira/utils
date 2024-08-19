@@ -901,3 +901,112 @@ mount: /mnt/plex: must be superuser to use mount.
 Drive mounted successfully.
 Backing up /home/oloo/Documents to /mnt/plex/BackUps
 sending incremental file list
+utils/backup.log
+utils/git_auto_push.log
+utils/.git/
+utils/.git/COMMIT_EDITMSG
+utils/.git/index
+utils/.git/logs/HEAD
+utils/.git/logs/refs/heads/main
+utils/.git/objects/
+utils/.git/objects/12/
+utils/.git/objects/12/e98ec860f85d0c3bca6e3eb61548bfeb1cf101
+utils/.git/objects/19/
+utils/.git/objects/19/96fbf11122277787877c3747009cdc34f07291
+utils/.git/objects/1c/
+utils/.git/objects/1c/5097e739b1bf3ff3fbf3226375de061a2889d4
+utils/.git/objects/20/
+utils/.git/objects/20/1ab42fe4317aa991eee6714fa375a7cfbf07a7
+utils/.git/objects/29/
+utils/.git/objects/29/ec25e5f283781bfc1da7ec0dc21496063ac9ed
+utils/.git/objects/37/
+utils/.git/objects/37/74b0ad9f36932ef4a684bfe69d3b7e2e2c702e
+utils/.git/objects/4a/
+utils/.git/objects/4a/415c8bf6648b6aa66ea0e97619692fde7d32e7
+utils/.git/objects/56/
+utils/.git/objects/56/4ed7520cc6da9e98f71b05e01e840f6e6233ff
+utils/.git/objects/66/
+utils/.git/objects/66/2704b6971c1619b58948fcf000f1658c718539
+utils/.git/objects/7b/
+utils/.git/objects/7b/3d3663df950945b8b1b83dfcc1cb1400692819
+utils/.git/objects/c7/
+utils/.git/objects/c7/6da27b72ac866cf2d1a27f4b9eeae696c5e454
+utils/.git/refs/heads/
+utils/.git/refs/heads/main
+
+sent 353,867 bytes  received 1,855 bytes  64,676.73 bytes/sec
+total size is 17,749,252,113  speedup is 49,896.41
+Backing up /home/oloo/DataGripProjects to /mnt/plex/BackUps
+sending incremental file list
+
+sent 5,234 bytes  received 78 bytes  10,624.00 bytes/sec
+total size is 2,755,875  speedup is 518.80
+Backing up /home/oloo/IdeaProjects to /mnt/plex/BackUps
+sending incremental file list
+JavaSeedSpeedTest/.git/
+MWM_PMS-API/.git/
+MWM_PMS-BackEndAPI/.git/
+MultithreadingConnectionPools/.git/
+ORM-BasedMassDataGenerator/.git/
+Populate_MWM-PMS/.git/
+mwm_pms/.git/
+simple_survey_api/.git/
+simple_survey_api/.git/COMMIT_EDITMSG
+simple_survey_api/.git/index
+simple_survey_api/.git/logs/HEAD
+simple_survey_api/.git/logs/refs/heads/master
+simple_survey_api/.git/objects/
+simple_survey_api/.git/objects/03/
+simple_survey_api/.git/objects/03/0d5a008e296f36322ed3e33ffe069040f9a298
+simple_survey_api/.git/objects/22/
+simple_survey_api/.git/objects/22/45064b19175d50252e7387332b75a969938e23
+simple_survey_api/.git/objects/3d/
+simple_survey_api/.git/objects/3d/d8faf32e939872dd3445f95a817bdb68a7fef7
+simple_survey_api/.git/objects/3f/
+simple_survey_api/.git/objects/3f/804018e504fec3d73e19bf42e3a5920f1407f7
+simple_survey_api/.git/objects/50/
+simple_survey_api/.git/objects/50/5b31b01fbaed851fca6c0f17cc763a9cd9ba8c
+simple_survey_api/.git/objects/5f/
+simple_survey_api/.git/objects/5f/1fb0f701387ca6e14105d7bd9aad8eebbed232
+simple_survey_api/.git/objects/8f/
+simple_survey_api/.git/objects/8f/c3c1319565bb85f1f1731047c8a51628ff36f6
+simple_survey_api/.git/objects/92/
+simple_survey_api/.git/objects/92/2284e1b9d97114a698aade9560d5c4f5bd1e42
+simple_survey_api/.git/objects/c7/
+simple_survey_api/.git/objects/c7/86520abcf5c44f8558564492cec3f810846edf
+simple_survey_api/.git/objects/f8/
+simple_survey_api/.git/objects/f8/9db7b7c9b2bd7bd6df2cebe441c956661fdeb2
+simple_survey_api/.git/refs/heads/
+simple_survey_api/.git/refs/heads/master
+simple_survey_api/src/main/java/oloo/ssa/
+simple_survey_api/src/main/java/oloo/ssa/auth/
+simple_survey_api/src/main/java/oloo/ssa/auth/FirebaseAuthService.java
+simple_survey_api/src/main/java/oloo/ssa/auth/FirebaseInitializer.java
+
+sent 765,228 bytes  received 4,683 bytes  139,983.82 bytes/sec
+total size is 13,215,857,780  speedup is 17,165.44
+Backing up /home/oloo/Code to /mnt/plex/BackUps
+sending incremental file list
+DemoRPC/.git/
+Flutter/basic_quiz_app/.git/
+Flutter/expense_tracker/.git/
+Flutter/first_app/.git/
+Flutter/mwm_pms_desktopapp/.git/
+Flutter/simple_survey_client/.dart_tool/extension_discovery/
+Flutter/simple_survey_client/.dart_tool/extension_discovery/vs_code.json
+Flutter/simple_survey_client/.git/
+Flutter/simple_survey_client/.git/FETCH_HEAD
+Flutter/simple_survey_client/android/.gradle/7.6.3/checksums/checksums.lock
+Flutter/simple_survey_client/android/.gradle/7.6.3/dependencies-accessors/dependencies-accessors.lock
+Flutter/simple_survey_client/android/.gradle/7.6.3/fileChanges/last-build.bin
+Flutter/simple_survey_client/android/.gradle/7.6.3/fileHashes/fileHashes.lock
+Flutter/simple_survey_client/android/.gradle/buildOutputCleanup/buildOutputCleanup.lock
+Flutter/sky_survey_app/.git/
+LeetCode/.git/
+NodeJS/mwm-pms-web-react-ui-decluttered/.git/
+
+sent 9,211,480 bytes  received 36,803 bytes  94,854.18 bytes/sec
+total size is 12,379,552,068  speedup is 1,338.58
+umount: /etc/fstab: parse error at line 17 -- ignored
+umount: /mnt/plex: must be superuser to unmount.
+Failed to unmount the drive.
