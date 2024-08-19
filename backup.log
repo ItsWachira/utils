@@ -1268,3 +1268,152 @@ mount: /mnt/plex: must be superuser to use mount.
 Drive mounted successfully.
 Backing up /home/oloo/Documents to /mnt/plex/BackUps
 sending incremental file list
+utils/backup.log
+utils/git_auto_push.log
+utils/.git/
+utils/.git/COMMIT_EDITMSG
+utils/.git/index
+utils/.git/logs/HEAD
+utils/.git/logs/refs/heads/main
+utils/.git/objects/
+utils/.git/objects/10/
+utils/.git/objects/10/4d5f3f29b13fff467e791c173370a5c1918753
+utils/.git/objects/24/
+utils/.git/objects/24/4231bd793e56cbd7516603a2748192bea82221
+utils/.git/objects/51/
+utils/.git/objects/51/010851982c8b5e992e465e675c4297e4ea4cc0
+utils/.git/objects/76/
+utils/.git/objects/76/b674fc7f118ade123af43bc20213e12ae3d6e1
+utils/.git/objects/82/
+utils/.git/objects/82/76ba6bf90bcc7ac4aaa4eecb98b2a276b9fd3f
+utils/.git/objects/a3/
+utils/.git/objects/a3/2530923f611ccb4f6bf00fd1bb4f84f293ba3a
+utils/.git/objects/a9/
+utils/.git/objects/a9/e90c3035e456f2146c8e10eead3c1482ea4345
+utils/.git/objects/c7/
+utils/.git/objects/c7/5c835ca638c9665326edd453c9e3af53a140f6
+utils/.git/objects/dd/
+utils/.git/objects/dd/5af6b07f86912879f978edc09d512549709dd6
+utils/.git/objects/ea/
+utils/.git/objects/ea/64c379ccbb65dad88c073c9a4b4194511b1409
+utils/.git/objects/fe/
+utils/.git/objects/fe/20e88ca1310e3ab31fffaac9bdfe00d8d65480
+utils/.git/refs/heads/
+utils/.git/refs/heads/main
+
+sent 449,340 bytes  received 1,879 bytes  82,039.82 bytes/sec
+total size is 17,749,509,860  speedup is 39,336.80
+Backing up /home/oloo/DataGripProjects to /mnt/plex/BackUps
+sending incremental file list
+
+sent 5,234 bytes  received 78 bytes  10,624.00 bytes/sec
+total size is 2,755,875  speedup is 518.80
+Backing up /home/oloo/IdeaProjects to /mnt/plex/BackUps
+sending incremental file list
+JavaSeedSpeedTest/.git/
+MWM_PMS-API/.git/
+MWM_PMS-BackEndAPI/.git/
+MultithreadingConnectionPools/.git/
+ORM-BasedMassDataGenerator/.git/
+Populate_MWM-PMS/.git/
+mwm_pms/.git/
+simple_survey_api/
+simple_survey_api/.gitignore
+simple_survey_api/.git/
+simple_survey_api/.git/COMMIT_EDITMSG
+simple_survey_api/.git/index
+simple_survey_api/.git/logs/HEAD
+simple_survey_api/.git/logs/refs/heads/master
+simple_survey_api/.git/logs/refs/remotes/origin/master
+simple_survey_api/.git/objects/
+simple_survey_api/.git/objects/0e/
+simple_survey_api/.git/objects/0e/239eeabe56fc3dc5bd0092161e3a0d17622f8e
+simple_survey_api/.git/objects/12/
+simple_survey_api/.git/objects/12/232819a8483255d8b95f434e45bf548caa30b8
+simple_survey_api/.git/objects/22/
+simple_survey_api/.git/objects/22/467df0e7ed629162f726651794fb1c8de25503
+simple_survey_api/.git/objects/28/
+simple_survey_api/.git/objects/28/086d3d0803a382940b2b169f076476efcca57a
+simple_survey_api/.git/objects/39/
+simple_survey_api/.git/objects/39/59b4bce01558ea9f576385d64bcc28af48e9c0
+simple_survey_api/.git/objects/49/
+simple_survey_api/.git/objects/49/a0371325ad9d81c243d0a302a8f0704d38f540
+simple_survey_api/.git/objects/50/
+simple_survey_api/.git/objects/50/b9c308d98b458ebb6f4e8be073b2ccbb46efb0
+simple_survey_api/.git/objects/5d/
+simple_survey_api/.git/objects/5d/77322ff29846b9025b6e92609581454380e4dc
+simple_survey_api/.git/objects/62/
+simple_survey_api/.git/objects/62/74f9442ce4a2fb1aeeb16d09ed71c4f32150d9
+simple_survey_api/.git/objects/63/
+simple_survey_api/.git/objects/63/41a6771907225250977730d366e0b6584ed54f
+simple_survey_api/.git/objects/65/
+simple_survey_api/.git/objects/65/0ed0318457dbd64ccbf4ded62803fa0b344907
+simple_survey_api/.git/objects/6e/
+simple_survey_api/.git/objects/6e/11d8638d62ededd9e1ff3b57b4c2bfdc7b6542
+simple_survey_api/.git/objects/71/
+simple_survey_api/.git/objects/71/ea42fdedc669cb61ee487d76ae0821f877edc5
+simple_survey_api/.git/objects/85/
+simple_survey_api/.git/objects/85/793fe1e65e0cb8695bd0c724f1d11dc5c2fb5c
+simple_survey_api/.git/objects/86/
+simple_survey_api/.git/objects/86/2f6678e4d36534f99d95e4828c6926b5105ea7
+simple_survey_api/.git/objects/8e/
+simple_survey_api/.git/objects/8e/7dd472757840c3d25e8730c6d25e64b7a59d4a
+simple_survey_api/.git/objects/94/
+simple_survey_api/.git/objects/94/abb704c5a160e6a340a1585f2912dda949b473
+simple_survey_api/.git/objects/96/
+simple_survey_api/.git/objects/96/abba5b545161a6fd5b24fab39b5171eb98fe3d
+simple_survey_api/.git/objects/9a/
+simple_survey_api/.git/objects/9a/4c6721ae2c4ccba315073cdd7481dd5fcb4aff
+simple_survey_api/.git/objects/a4/
+simple_survey_api/.git/objects/a4/e536aa0f8920b2e3d3c4647cc53549ea39bc51
+simple_survey_api/.git/objects/a6/
+simple_survey_api/.git/objects/a6/bcda10bca3012d63f3608f218df1def7d09327
+simple_survey_api/.git/objects/be/
+simple_survey_api/.git/objects/be/790405a34a1a81ed261c466d1d69148c254d57
+simple_survey_api/.git/objects/c5/
+simple_survey_api/.git/objects/c5/738875f047826bb9850191caca3da38f1b11b0
+simple_survey_api/.git/objects/c7/
+simple_survey_api/.git/objects/c7/4e6e027116646dd5da1974e44e6411578ebae2
+simple_survey_api/.git/objects/cd/
+simple_survey_api/.git/objects/cd/ffe63bfca1bab0dd1d994c592b93297812942d
+simple_survey_api/.git/objects/d0/
+simple_survey_api/.git/objects/d0/5aee48ba797cddefe6426651ae90b1e42b7a03
+simple_survey_api/.git/objects/d5/
+simple_survey_api/.git/objects/d5/3cc7554a23a1cf7544c95318a380424851b743
+simple_survey_api/.git/objects/e3/
+simple_survey_api/.git/objects/e3/9be1f75f51c71450d42116d83886875d70aa42
+simple_survey_api/.git/objects/e8/
+simple_survey_api/.git/objects/e8/7294b9f2f9fbc5390558fbab5718d2c361d8bd
+simple_survey_api/.git/objects/f3/
+simple_survey_api/.git/objects/f3/33646d5ee4a081699c1c56f021abcce4c84a5a
+simple_survey_api/.git/refs/heads/
+simple_survey_api/.git/refs/heads/master
+simple_survey_api/.git/refs/remotes/origin/
+simple_survey_api/.git/refs/remotes/origin/master
+simple_survey_api/src/main/java/oloo/ssa/
+simple_survey_api/src/main/java/oloo/ssa/SurveyApi.java
+simple_survey_api/src/main/java/oloo/ssa/auth/
+simple_survey_api/src/main/java/oloo/ssa/auth/FirebaseAuthMiddleware.java
+simple_survey_api/src/main/java/oloo/ssa/auth/FirebaseInitializer.java
+simple_survey_api/src/main/resources/
+simple_survey_api/src/main/resources/serviceAccountKey.json
+
+sent 782,413 bytes  received 5,228 bytes  175,031.33 bytes/sec
+total size is 13,215,870,955  speedup is 16,779.05
+Backing up /home/oloo/Code to /mnt/plex/BackUps
+sending incremental file list
+DemoRPC/.git/
+Flutter/basic_quiz_app/.git/
+Flutter/expense_tracker/.git/
+Flutter/first_app/.git/
+Flutter/mwm_pms_desktopapp/.git/
+Flutter/simple_survey_client/.git/
+Flutter/sky_survey_app/.git/
+LeetCode/.git/
+NodeJS/mwm-pms-web-react-ui-decluttered/.git/
+
+sent 9,211,056 bytes  received 36,673 bytes  253,362.44 bytes/sec
+total size is 12,379,554,474  speedup is 1,338.66
+umount: /etc/fstab: parse error at line 17 -- ignored
+umount: /mnt/plex: must be superuser to unmount.
+Failed to unmount the drive.
