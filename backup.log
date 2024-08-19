@@ -10768,3 +10768,133 @@ mount: /mnt/plex: must be superuser to use mount.
 Drive mounted successfully.
 Backing up /home/oloo/Documents to /mnt/plex/BackUps
 sending incremental file list
+utils/backup.log
+utils/git_auto_push.log
+utils/.git/
+utils/.git/COMMIT_EDITMSG
+utils/.git/index
+utils/.git/logs/HEAD
+utils/.git/logs/refs/heads/main
+utils/.git/objects/
+utils/.git/objects/16/
+utils/.git/objects/16/3dd39474ac1449c6adca50b73c1420d99cb961
+utils/.git/objects/24/
+utils/.git/objects/24/fa11f26731c195ff4c4d8a736f92296c1e9804
+utils/.git/objects/36/
+utils/.git/objects/36/cea40c3802ab8a3d8a842cec06e7243c315520
+utils/.git/objects/40/
+utils/.git/objects/40/ca3af11fc9b5989c0083f6f0ad55994de993be
+utils/.git/objects/5d/
+utils/.git/objects/5d/27ffc95a113cea56a62115fdc03663dad4819f
+utils/.git/objects/6e/
+utils/.git/objects/6e/38df4bc939d532a7b02b2545dd0871cca88bea
+utils/.git/objects/72/
+utils/.git/objects/72/2a187feff69c5f8f275d06fbea055ca92fe350
+utils/.git/objects/9f/
+utils/.git/objects/9f/2fc76b27069c29fdd0bbfff5e1d9e7499ae937
+utils/.git/objects/a1/
+utils/.git/objects/a1/e5907c2614f62fae57e0d45ac0f2d27fe61e88
+utils/.git/objects/b3/
+utils/.git/objects/b3/248668f4b4b407f6795f0630ce698980d6f620
+utils/.git/objects/c7/
+utils/.git/objects/c7/d2c5d4edaebc65e3aff3495bd27fd14e0f1af5
+utils/.git/refs/heads/
+utils/.git/refs/heads/main
+
+sent 1,900,709 bytes  received 1,951 bytes  292,716.92 bytes/sec
+total size is 17,752,599,418  speedup is 9,330.41
+Backing up /home/oloo/DataGripProjects to /mnt/plex/BackUps
+sending incremental file list
+
+sent 5,234 bytes  received 78 bytes  10,624.00 bytes/sec
+total size is 2,755,875  speedup is 518.80
+Backing up /home/oloo/IdeaProjects to /mnt/plex/BackUps
+sending incremental file list
+JavaSeedSpeedTest/.git/
+MWM_PMS-API/.git/
+MWM_PMS-BackEndAPI/.git/
+MultithreadingConnectionPools/.git/
+ORM-BasedMassDataGenerator/.git/
+Populate_MWM-PMS/.git/
+mwm_pms/.git/
+simple_survey_api/.git/
+
+sent 729,225 bytes  received 4,378 bytes  209,600.86 bytes/sec
+total size is 13,215,905,590  speedup is 18,015.06
+Backing up /home/oloo/Code to /mnt/plex/BackUps
+sending incremental file list
+./
+DemoRPC/.git/
+Flutter/basic_quiz_app/.git/
+Flutter/expense_tracker/.git/
+Flutter/first_app/.git/
+Flutter/mwm_pms_desktopapp/.git/
+Flutter/simple_survey_client/.git/
+Flutter/sky_survey_app/.git/
+LeetCode/.git/
+NodeJS/mwm-pms-web-react-ui-decluttered/.git/
+UnravellingFlexBox/
+itchotels-clone/
+itchotels-clone/index.html
+itchotels-clone/.git/
+itchotels-clone/.git/COMMIT_EDITMSG
+itchotels-clone/.git/FETCH_HEAD
+itchotels-clone/.git/HEAD
+itchotels-clone/.git/ORIG_HEAD
+itchotels-clone/.git/config
+itchotels-clone/.git/description
+itchotels-clone/.git/index
+itchotels-clone/.git/packed-refs
+itchotels-clone/.git/branches/
+itchotels-clone/.git/hooks/
+itchotels-clone/.git/hooks/applypatch-msg.sample
+itchotels-clone/.git/hooks/commit-msg.sample
+itchotels-clone/.git/hooks/fsmonitor-watchman.sample
+itchotels-clone/.git/hooks/post-update.sample
+itchotels-clone/.git/hooks/pre-applypatch.sample
+itchotels-clone/.git/hooks/pre-commit.sample
+itchotels-clone/.git/hooks/pre-merge-commit.sample
+itchotels-clone/.git/hooks/pre-push.sample
+itchotels-clone/.git/hooks/pre-rebase.sample
+itchotels-clone/.git/hooks/pre-receive.sample
+itchotels-clone/.git/hooks/prepare-commit-msg.sample
+itchotels-clone/.git/hooks/push-to-checkout.sample
+itchotels-clone/.git/hooks/sendemail-validate.sample
+itchotels-clone/.git/hooks/update.sample
+itchotels-clone/.git/info/
+itchotels-clone/.git/info/exclude
+itchotels-clone/.git/logs/
+itchotels-clone/.git/logs/HEAD
+itchotels-clone/.git/logs/refs/
+itchotels-clone/.git/logs/refs/heads/
+itchotels-clone/.git/logs/refs/heads/main
+itchotels-clone/.git/logs/refs/remotes/
+itchotels-clone/.git/logs/refs/remotes/origin/
+itchotels-clone/.git/logs/refs/remotes/origin/HEAD
+itchotels-clone/.git/logs/refs/remotes/origin/main
+itchotels-clone/.git/objects/
+itchotels-clone/.git/objects/5f/
+itchotels-clone/.git/objects/5f/44bece9ce37606932445958dad309bf7148281
+itchotels-clone/.git/objects/8a/
+itchotels-clone/.git/objects/8a/16d187b744f378c17064d30a427913afa530af
+itchotels-clone/.git/objects/e0/
+itchotels-clone/.git/objects/e0/cd7908a0c1bf2dda15ea655b2d21cc00a8c939
+itchotels-clone/.git/objects/info/
+itchotels-clone/.git/objects/pack/
+itchotels-clone/.git/objects/pack/pack-66b58356017d2544a4086ec9db01fb2f00896c6c.idx
+itchotels-clone/.git/objects/pack/pack-66b58356017d2544a4086ec9db01fb2f00896c6c.pack
+itchotels-clone/.git/objects/pack/pack-66b58356017d2544a4086ec9db01fb2f00896c6c.rev
+itchotels-clone/.git/refs/
+itchotels-clone/.git/refs/heads/
+itchotels-clone/.git/refs/heads/main
+itchotels-clone/.git/refs/remotes/
+itchotels-clone/.git/refs/remotes/origin/
+itchotels-clone/.git/refs/remotes/origin/HEAD
+itchotels-clone/.git/refs/remotes/origin/main
+itchotels-clone/.git/refs/tags/
+
+sent 9,375,442 bytes  received 38,843 bytes  186,421.49 bytes/sec
+total size is 12,600,243,317  speedup is 1,338.42
+umount: /etc/fstab: parse error at line 17 -- ignored
+umount: /mnt/plex: must be superuser to unmount.
+Failed to unmount the drive.
