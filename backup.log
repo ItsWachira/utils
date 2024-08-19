@@ -147,3 +147,78 @@ mount: /mnt/plex: must be superuser to use mount.
 Drive mounted successfully.
 Backing up /home/oloo/Documents to /mnt/plex/BackUps
 sending incremental file list
+utils/backup.log
+utils/git_auto_push.log
+utils/.git/
+utils/.git/COMMIT_EDITMSG
+utils/.git/FETCH_HEAD
+utils/.git/ORIG_HEAD
+utils/.git/index
+utils/.git/logs/HEAD
+utils/.git/logs/refs/heads/main
+utils/.git/logs/refs/remotes/origin/main
+utils/.git/objects/
+utils/.git/objects/09/
+utils/.git/objects/09/4c7719543ca93b839110196815d42bf0ad930f
+utils/.git/objects/38/
+utils/.git/objects/38/8c6a17c5946c1ba6998daf99b97f89897aef86
+utils/.git/objects/50/
+utils/.git/objects/50/315518cddebbb8dcb392540531bc93f20732c4
+utils/.git/objects/5c/
+utils/.git/objects/5c/792236afd70ee2c6ef772dcad188175895eec6
+utils/.git/objects/74/
+utils/.git/objects/74/19f3b03b4862f3a7c3cd994d6d41cfc699b1c7
+utils/.git/objects/75/
+utils/.git/objects/75/6e5f21331846ec259fa5a893d7de8e9945035b
+utils/.git/objects/82/
+utils/.git/objects/82/7e86f3e87495eef79b3366d30ed1fb529dfc26
+utils/.git/objects/99/
+utils/.git/objects/99/6fc0d7b23915c8aa3f67b82c19139bf657db67
+utils/.git/objects/a2/
+utils/.git/objects/a2/782f0e8c83acb0dd6dc8def56ac2ccc7324c58
+utils/.git/objects/c0/
+utils/.git/objects/c0/4f879352ee372210f10240d373b974a05359b6
+utils/.git/objects/cc/
+utils/.git/objects/cc/f026d21f77d89d4d5f58ac0f60085b789b0b28
+utils/.git/objects/e1/
+utils/.git/objects/e1/24172c16edbee2e9d9b518cb186dcebb43ad43
+utils/.git/objects/e6/
+utils/.git/objects/e6/4f060f71b1214ba0b03d777c270d94f4527930
+utils/.git/objects/f8/
+utils/.git/objects/f8/4a00c5bef2f14cd0c70ecccefc58941e751624
+utils/.git/refs/heads/
+utils/.git/refs/heads/main
+utils/.git/refs/remotes/origin/
+utils/.git/refs/remotes/origin/main
+
+sent 193,610 bytes  received 1,930 bytes  35,552.73 bytes/sec
+total size is 17,748,943,080  speedup is 90,768.86
+Backing up /home/oloo/DataGripProjects to /mnt/plex/BackUps
+sending incremental file list
+
+sent 5,234 bytes  received 78 bytes  10,624.00 bytes/sec
+total size is 2,756,213  speedup is 518.87
+Backing up /home/oloo/IdeaProjects to /mnt/plex/BackUps
+sending incremental file list
+JavaSeedSpeedTest/.git/
+JavaSeedSpeedTest/.git/config
+MWM_PMS-API WITH UNDERTOW/.git/
+MWM_PMS-API WITH UNDERTOW/.git/config
+MWM_PMS-API/.git/
+MWM_PMS-API/.git/config
+MWM_PMS-BackEndAPI/.git/
+MWM_PMS-BackEndAPI/.git/config
+MultithreadingConnectionPools/.git/
+MultithreadingConnectionPools/.git/config
+ORM-BasedMassDataGenerator/.git/
+ORM-BasedMassDataGenerator/.git/config
+Populate_MWM-PMS/.git/
+Populate_MWM-PMS/.git/config
+XML-Validation-XSD/.git/
+XML-Validation-XSD/.git/config
+macmillan_catalog_manager/.git/
+macmillan_catalog_manager/.git/config
+mwm_pms/.git/
+mwm_pms/.git/config
+simple_survey_api/.git/
+simple_survey_api/.git/config
