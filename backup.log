@@ -257,3 +257,232 @@ mount: /mnt/plex: must be superuser to use mount.
 Drive mounted successfully.
 Backing up /home/oloo/Documents to /mnt/plex/BackUps
 sending incremental file list
+utils/.gitignore
+utils/backup.log
+utils/git_auto_push.log
+utils/.git/
+utils/.git/COMMIT_EDITMSG
+utils/.git/FETCH_HEAD
+utils/.git/ORIG_HEAD
+utils/.git/index
+utils/.git/logs/HEAD
+utils/.git/logs/refs/heads/main
+utils/.git/logs/refs/remotes/origin/main
+utils/.git/objects/
+utils/.git/objects/09/
+utils/.git/objects/09/8f5ac70647cab774ee527699e000f6296e630c
+utils/.git/objects/13/
+utils/.git/objects/13/34660ac422d174d90687efcc06f4bd8d003902
+utils/.git/objects/17/
+utils/.git/objects/17/022b0b2a3f91da4df87254ea3ff98ceee7e2a2
+utils/.git/objects/1f/
+utils/.git/objects/1f/2fbacfa1d75e866bf09f9b2236e25abf735e14
+utils/.git/objects/2e/
+utils/.git/objects/2e/454de331033ee10e46b3e1c5d2cc6db97ac570
+utils/.git/objects/2f/
+utils/.git/objects/2f/3daa94313af52285307451583602dcfb054c24
+utils/.git/objects/30/
+utils/.git/objects/30/5edc8707adb925c64d46dce7a8aa6a6f890f36
+utils/.git/objects/3d/
+utils/.git/objects/3d/b71798ee7f597e55ea3c2d4938dfeb7310ca4a
+utils/.git/objects/3e/
+utils/.git/objects/3e/a50c3582a9b60e056b460aee39837d7ab157f4
+utils/.git/objects/45/
+utils/.git/objects/45/d98adbd470154323aab6f76c8091c5cf51271e
+utils/.git/objects/4a/
+utils/.git/objects/4a/45b1d8a2976754868144c640a686b07e4f1cb7
+utils/.git/objects/4c/
+utils/.git/objects/4c/0efd597c0c3530170fbdbfa963517f25d54f84
+utils/.git/objects/4f/
+utils/.git/objects/4f/de44180651464983138af3436fce1833eb5c6f
+utils/.git/objects/7a/
+utils/.git/objects/7a/a6346536ca1a4abb91e5015edb8321b4b437db
+utils/.git/objects/7c/
+utils/.git/objects/7c/5bc0d78df46d9520d39a298d4f769b925ce195
+utils/.git/objects/96/
+utils/.git/objects/96/fc3a49d7cb40528df33a156121ea6eed4e1f0b
+utils/.git/objects/a7/
+utils/.git/objects/a7/cad8bdd35946f527d7364cabc9dba400b212f1
+utils/.git/objects/c1/
+utils/.git/objects/c1/5fd8b19f0b1706ab1ac3a2d1de5acfbaaacd23
+utils/.git/objects/c5/
+utils/.git/objects/c5/3e58029939d9f7c8642428c5ee72e91e95e5a3
+utils/.git/objects/c7/
+utils/.git/objects/c7/894ebae4cc1ea2a534a293a96293a4f97bf8f5
+utils/.git/objects/e0/
+utils/.git/objects/e0/0a1f88d2e9446ddc5024a90782df10a21e1873
+utils/.git/objects/f1/
+utils/.git/objects/f1/fd7c0b0154a1b47932cb3dc4890faf0502c906
+utils/.git/objects/f5/
+utils/.git/objects/f5/0839e9f3ca1f8f50f1c2d14f5db06113e32a5c
+utils/.git/objects/fe/
+utils/.git/objects/fe/e0270a4ab702a9da32d2a748c88ad61eb30b27
+utils/.git/objects/ff/
+utils/.git/objects/ff/9b74344081300f22c3d6abacafe299de4d69a9
+utils/.git/refs/heads/
+utils/.git/refs/heads/main
+utils/.git/refs/remotes/origin/
+utils/.git/refs/remotes/origin/main
+
+sent 231,043 bytes  received 2,211 bytes  35,885.23 bytes/sec
+total size is 17,748,990,264  speedup is 76,092.97
+Backing up /home/oloo/DataGripProjects to /mnt/plex/BackUps
+sending incremental file list
+
+sent 5,234 bytes  received 78 bytes  10,624.00 bytes/sec
+total size is 2,756,213  speedup is 518.87
+Backing up /home/oloo/IdeaProjects to /mnt/plex/BackUps
+sending incremental file list
+JavaSeedSpeedTest/.git/
+MWM_PMS-API/.git/
+MWM_PMS-BackEndAPI/.git/
+MultithreadingConnectionPools/.git/
+ORM-BasedMassDataGenerator/.git/
+Populate_MWM-PMS/.git/
+mwm_pms/.git/
+simple_survey_api/.git/
+
+sent 725,809 bytes  received 4,318 bytes  76,855.47 bytes/sec
+total size is 13,215,853,364  speedup is 18,100.76
+Backing up /home/oloo/Code to /mnt/plex/BackUps
+sending incremental file list
+DemoRPC/.git/
+Flutter/basic_quiz_app/.git/
+Flutter/expense_tracker/.git/
+Flutter/first_app/.git/
+Flutter/mwm_pms_desktopapp/.git/
+deleting Flutter/simple_survey_client/.git/AUTO_MERGE
+Flutter/simple_survey_client/
+Flutter/simple_survey_client/.flutter-plugins
+Flutter/simple_survey_client/.flutter-plugins-dependencies
+Flutter/simple_survey_client/.metadata
+Flutter/simple_survey_client/README.md
+Flutter/simple_survey_client/pubspec.lock
+Flutter/simple_survey_client/pubspec.yaml
+Flutter/simple_survey_client/.dart_tool/package_config.json
+Flutter/simple_survey_client/.dart_tool/package_config_subset
+Flutter/simple_survey_client/.dart_tool/version
+Flutter/simple_survey_client/.dart_tool/dartpad/web_plugin_registrant.dart
+Flutter/simple_survey_client/.dart_tool/extension_discovery/
+Flutter/simple_survey_client/.dart_tool/extension_discovery/vs_code.json
+Flutter/simple_survey_client/.git/
+Flutter/simple_survey_client/.git/COMMIT_EDITMSG
+Flutter/simple_survey_client/.git/FETCH_HEAD
+Flutter/simple_survey_client/.git/ORIG_HEAD
+Flutter/simple_survey_client/.git/config
+Flutter/simple_survey_client/.git/index
+Flutter/simple_survey_client/.git/logs/HEAD
+Flutter/simple_survey_client/.git/logs/refs/heads/main
+Flutter/simple_survey_client/.git/logs/refs/remotes/origin/main
+Flutter/simple_survey_client/.git/objects/
+Flutter/simple_survey_client/.git/objects/07/0464729d9753ba9a9d6c016eaa933c941fa17c
+Flutter/simple_survey_client/.git/objects/07/6b8205bcb1fe0d2b787e835ade2794915d1229
+Flutter/simple_survey_client/.git/objects/2e/020a3acdfa684bc4991c4fc2b00c3a0337cf12
+Flutter/simple_survey_client/.git/objects/88/
+Flutter/simple_survey_client/.git/objects/88/11ac5fa6b6dd6bbcb4fe78280d1b7a1efab1d4
+Flutter/simple_survey_client/.git/objects/92/
+Flutter/simple_survey_client/.git/objects/92/73304abf3740ec3e2194754caffcaaf9699345
+Flutter/simple_survey_client/.git/objects/a0/
+Flutter/simple_survey_client/.git/objects/a0/d3bd8d637b5928d8dd3ad5822adb4d7dca6a33
+Flutter/simple_survey_client/.git/objects/c2/
+Flutter/simple_survey_client/.git/objects/c2/e151484e46c5d4c2f6b27d0e72360189cc9ee2
+Flutter/simple_survey_client/.git/objects/e8/
+Flutter/simple_survey_client/.git/objects/e8/44e94dd32255b671eaf4a3a48f68aaaef7bd12
+deleting Flutter/simple_survey_client/android/app/src/main/kotlin/com/example/sky_survey_app/MainActivity.kt
+deleting Flutter/simple_survey_client/android/app/src/main/kotlin/com/example/sky_survey_app/
+Flutter/simple_survey_client/.git/refs/heads/
+Flutter/simple_survey_client/.git/refs/heads/main
+Flutter/simple_survey_client/.git/refs/remotes/origin/
+Flutter/simple_survey_client/.git/refs/remotes/origin/main
+Flutter/simple_survey_client/.vscode/
+Flutter/simple_survey_client/.vscode/settings.json
+Flutter/simple_survey_client/android/.gradle/7.6.3/gc.properties
+Flutter/simple_survey_client/android/.gradle/7.6.3/checksums/checksums.lock
+Flutter/simple_survey_client/android/.gradle/7.6.3/dependencies-accessors/dependencies-accessors.lock
+Flutter/simple_survey_client/android/.gradle/7.6.3/dependencies-accessors/gc.properties
+Flutter/simple_survey_client/android/.gradle/7.6.3/fileChanges/last-build.bin
+Flutter/simple_survey_client/android/.gradle/7.6.3/fileHashes/fileHashes.lock
+Flutter/simple_survey_client/android/.gradle/buildOutputCleanup/buildOutputCleanup.lock
+Flutter/simple_survey_client/android/.gradle/vcs-1/gc.properties
+Flutter/simple_survey_client/android/app/
+Flutter/simple_survey_client/android/app/build.gradle
+Flutter/simple_survey_client/android/app/src/main/
+Flutter/simple_survey_client/android/app/src/main/AndroidManifest.xml
+Flutter/simple_survey_client/android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java
+Flutter/simple_survey_client/android/app/src/main/kotlin/
+Flutter/simple_survey_client/android/app/src/main/kotlin/com/
+Flutter/simple_survey_client/android/app/src/main/kotlin/com/example/
+Flutter/simple_survey_client/android/app/src/main/kotlin/com/example/simple_survey_client/
+Flutter/simple_survey_client/android/app/src/main/kotlin/com/example/simple_survey_client/MainActivity.kt
+Flutter/simple_survey_client/assets/
+Flutter/simple_survey_client/assets/images/
+Flutter/simple_survey_client/assets/images/quiz-logo.png
+deleting Flutter/simple_survey_client/lib/theme.dart
+deleting Flutter/simple_survey_client/lib/components/question_field.dart
+deleting Flutter/simple_survey_client/lib/screens/survey_response_screen.dart
+deleting Flutter/simple_survey_client/lib/widgets/sky_survey_app.dart
+Flutter/simple_survey_client/ios/Runner.xcodeproj/
+Flutter/simple_survey_client/ios/Runner.xcodeproj/project.pbxproj
+Flutter/simple_survey_client/ios/Runner/
+Flutter/simple_survey_client/ios/Runner/GeneratedPluginRegistrant.h
+Flutter/simple_survey_client/ios/Runner/GeneratedPluginRegistrant.m
+Flutter/simple_survey_client/ios/Runner/Info.plist
+Flutter/simple_survey_client/lib/
+Flutter/simple_survey_client/lib/main.dart
+Flutter/simple_survey_client/lib/components/
+Flutter/simple_survey_client/lib/components/custom_app_bar.dart
+Flutter/simple_survey_client/lib/models/
+Flutter/simple_survey_client/lib/models/creator.dart
+Flutter/simple_survey_client/lib/models/response.dart
+Flutter/simple_survey_client/lib/models/survey_response.dart
+Flutter/simple_survey_client/lib/screens/
+Flutter/simple_survey_client/lib/screens/add_options_screen.dart
+Flutter/simple_survey_client/lib/screens/add_question_screen.dart
+Flutter/simple_survey_client/lib/screens/home_screen.dart
+Flutter/simple_survey_client/lib/screens/login_screen.dart
+Flutter/simple_survey_client/lib/screens/survey_creator_screen.dart
+Flutter/simple_survey_client/lib/screens/survey_form_screen.dart
+Flutter/simple_survey_client/lib/screens/survey_list_screen.dart
+Flutter/simple_survey_client/lib/screens/survey_response_form_screen.dart
+Flutter/simple_survey_client/lib/screens/survey_responses_screen.dart
+Flutter/simple_survey_client/lib/services/
+Flutter/simple_survey_client/lib/services/api_service.dart
+Flutter/simple_survey_client/lib/widgets/
+Flutter/simple_survey_client/lib/widgets/app.dart
+Flutter/simple_survey_client/lib/widgets/theme.dart
+Flutter/simple_survey_client/linux/
+Flutter/simple_survey_client/linux/CMakeLists.txt
+Flutter/simple_survey_client/linux/my_application.cc
+Flutter/simple_survey_client/linux/flutter/generated_plugin_registrant.cc
+Flutter/simple_survey_client/linux/flutter/generated_plugin_registrant.h
+Flutter/simple_survey_client/linux/flutter/generated_plugins.cmake
+Flutter/simple_survey_client/macos/Flutter/
+Flutter/simple_survey_client/macos/Flutter/GeneratedPluginRegistrant.swift
+Flutter/simple_survey_client/macos/Runner.xcodeproj/
+Flutter/simple_survey_client/macos/Runner.xcodeproj/project.pbxproj
+Flutter/simple_survey_client/macos/Runner.xcodeproj/xcshareddata/xcschemes/
+Flutter/simple_survey_client/macos/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme
+Flutter/simple_survey_client/macos/Runner/Configs/
+Flutter/simple_survey_client/macos/Runner/Configs/AppInfo.xcconfig
+Flutter/simple_survey_client/test/
+Flutter/simple_survey_client/test/widget_test.dart
+Flutter/simple_survey_client/web/
+Flutter/simple_survey_client/web/index.html
+Flutter/simple_survey_client/web/manifest.json
+Flutter/simple_survey_client/windows/
+Flutter/simple_survey_client/windows/CMakeLists.txt
+Flutter/simple_survey_client/windows/flutter/generated_plugin_registrant.cc
+Flutter/simple_survey_client/windows/flutter/generated_plugin_registrant.h
+Flutter/simple_survey_client/windows/flutter/generated_plugins.cmake
+Flutter/simple_survey_client/windows/runner/
+Flutter/simple_survey_client/windows/runner/Runner.rc
+Flutter/simple_survey_client/windows/runner/main.cpp
+Flutter/sky_survey_app/.git/
+LeetCode/.git/
+NodeJS/mwm-pms-web-react-ui-decluttered/.git/
+
+sent 9,487,375 bytes  received 38,844 bytes  129,608.42 bytes/sec
+total size is 12,379,549,460  speedup is 1,299.52
+umount: /etc/fstab: parse error at line 17 -- ignored
+umount: /mnt/plex: must be superuser to unmount.
+Failed to unmount the drive.
