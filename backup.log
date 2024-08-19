@@ -244,3 +244,11 @@ Flutter/simple_survey_client/.git/config
 Flutter/sky_survey_app/.git/
 LeetCode/.git/
 LeetCode/.git/config
+NodeJS/mwm-pms-web-react-ui-decluttered/.git/
+NodeJS/mwm-pms-web-react-ui-decluttered/.git/config
+
+sent 9,213,004 bytes  received 36,830 bytes  190,718.23 bytes/sec
+total size is 12,379,488,280  speedup is 1,338.35
+umount: /etc/fstab: parse error at line 17 -- ignored
+umount: /mnt/plex: must be superuser to unmount.
+Failed to unmount the drive.
