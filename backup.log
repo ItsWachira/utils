@@ -3166,3 +3166,142 @@ mount: /mnt/plex: must be superuser to use mount.
 Drive mounted successfully.
 Backing up /home/oloo/Documents to /mnt/plex/BackUps
 sending incremental file list
+utils/backup.log
+utils/git_auto_push.log
+utils/.git/
+utils/.git/COMMIT_EDITMSG
+utils/.git/index
+utils/.git/logs/HEAD
+utils/.git/logs/refs/heads/main
+utils/.git/objects/
+utils/.git/objects/47/
+utils/.git/objects/47/95209fc3fd7185efc40acefaca6be9b494e1b9
+utils/.git/objects/4e/
+utils/.git/objects/4e/3de60b37d13dc047acf09a7ecb739115dc7186
+utils/.git/objects/58/
+utils/.git/objects/58/570306772c752ffebf69a8e82f8bd2818bf703
+utils/.git/objects/70/
+utils/.git/objects/70/c8d75dc244f86ecc83a0ca8140e1f24a13a5c9
+utils/.git/objects/8c/
+utils/.git/objects/8c/57d5217acb1dd29f6b4402fe9084177b3e273e
+utils/.git/objects/9a/
+utils/.git/objects/9a/96510b71f8f1eb0a98b39788b9b3fe3be670e7
+utils/.git/objects/b9/
+utils/.git/objects/b9/bab28db02cb53a207bac439e048016eece69d0
+utils/.git/objects/c2/
+utils/.git/objects/c2/46468d91be397d42b2c5169e394c2f2caa6d1d
+utils/.git/objects/d4/
+utils/.git/objects/d4/850f45ad1ba5cb007b6e057eed503d984b5620
+utils/.git/objects/d7/
+utils/.git/objects/d7/8e1f3efc18bbfdbc2e89a76ce55833c01f1531
+utils/.git/objects/ff/
+utils/.git/objects/ff/d49b055a8ee12504cc0f54933773da846710c4
+utils/.git/refs/heads/
+utils/.git/refs/heads/main
+
+sent 720,808 bytes  received 1,904 bytes  96,361.60 bytes/sec
+total size is 17,749,946,089  speedup is 24,560.19
+Backing up /home/oloo/DataGripProjects to /mnt/plex/BackUps
+sending incremental file list
+
+sent 5,234 bytes  received 78 bytes  10,624.00 bytes/sec
+total size is 2,755,875  speedup is 518.80
+Backing up /home/oloo/IdeaProjects to /mnt/plex/BackUps
+sending incremental file list
+JavaSeedSpeedTest/.git/
+MWM_PMS-API/.git/
+MWM_PMS-BackEndAPI/.git/
+MultithreadingConnectionPools/.git/
+ORM-BasedMassDataGenerator/.git/
+Populate_MWM-PMS/.git/
+mwm_pms/.git/
+simple_survey_api/.git/
+
+sent 729,233 bytes  received 4,382 bytes  133,384.55 bytes/sec
+total size is 13,215,905,590  speedup is 18,014.77
+Backing up /home/oloo/Code to /mnt/plex/BackUps
+sending incremental file list
+DemoRPC/.git/
+Flutter/basic_quiz_app/.git/
+Flutter/expense_tracker/.git/
+Flutter/first_app/.git/
+Flutter/mwm_pms_desktopapp/.git/
+Flutter/simple_survey_client/.gitignore
+Flutter/simple_survey_client/.git/
+Flutter/simple_survey_client/.git/COMMIT_EDITMSG
+Flutter/simple_survey_client/.git/index
+Flutter/simple_survey_client/.git/logs/HEAD
+Flutter/simple_survey_client/.git/logs/refs/heads/main
+Flutter/simple_survey_client/.git/objects/
+Flutter/simple_survey_client/.git/objects/00/
+Flutter/simple_survey_client/.git/objects/00/27fcbf8c13cdd5153e0be45c5369dfa353ad0a
+Flutter/simple_survey_client/.git/objects/00/6630be174083ebe7d3c3a6f3c2d20dd1bea48a
+Flutter/simple_survey_client/.git/objects/00/711c13518125e11cbc8660f0f4ee30fc0f7e46
+Flutter/simple_survey_client/.git/objects/07/
+Flutter/simple_survey_client/.git/objects/07/4e08a2899d628e2fd56874f92421c613a20934
+Flutter/simple_survey_client/.git/objects/0c/
+Flutter/simple_survey_client/.git/objects/0c/1e487956277e52d3032fb86072f9c5d2407b0c
+Flutter/simple_survey_client/.git/objects/22/
+Flutter/simple_survey_client/.git/objects/22/68e24d274fd8f6081cb71022e87390d43eded4
+Flutter/simple_survey_client/.git/objects/31/
+Flutter/simple_survey_client/.git/objects/31/51a4ce482f7a63188cc81d82fb38941d28095d
+Flutter/simple_survey_client/.git/objects/38/
+Flutter/simple_survey_client/.git/objects/38/4872f0242f43272e8af7d4da666a3d496c8ff1
+Flutter/simple_survey_client/.git/objects/3a/
+Flutter/simple_survey_client/.git/objects/3a/09e5a86e7275c21642f1276fe4d98e6fcf9c13
+Flutter/simple_survey_client/.git/objects/3c/
+Flutter/simple_survey_client/.git/objects/3c/3c41c68bdebc193d3dcb32a3d50fdda1421fe3
+Flutter/simple_survey_client/.git/objects/60/
+Flutter/simple_survey_client/.git/objects/60/d0718c744015a63d3b7d20cf2087980e61ad83
+Flutter/simple_survey_client/.git/objects/7d/
+Flutter/simple_survey_client/.git/objects/7d/27a52a91592080878a5903dc76aa9d66ad7f36
+Flutter/simple_survey_client/.git/objects/8b/
+Flutter/simple_survey_client/.git/objects/8b/0d03bc1cce0ab023f5ba77e2903bf0a312532c
+Flutter/simple_survey_client/.git/objects/9e/
+Flutter/simple_survey_client/.git/objects/9e/270ca20b34482ba77df0f74fa63bf2332cc815
+Flutter/simple_survey_client/.git/objects/a3/
+Flutter/simple_survey_client/.git/objects/a3/aca3c6f22baf0bb46b0b52f203aa1e7dda533d
+Flutter/simple_survey_client/.git/objects/a6/
+Flutter/simple_survey_client/.git/objects/a6/56cb428194a595cba93166447898580c3027af
+Flutter/simple_survey_client/.git/objects/ae/
+Flutter/simple_survey_client/.git/objects/ae/88fbbe0e4eb42afd064bacbf5b0d0f722700f2
+Flutter/simple_survey_client/.git/objects/ae/bfda316aebbf93bb9c2757bbf0de0dc9850b6e
+Flutter/simple_survey_client/.git/objects/c1/
+Flutter/simple_survey_client/.git/objects/c1/aae0d51141b4f5d0ab6df8fb1c903d37b84b03
+Flutter/simple_survey_client/.git/objects/d2/
+Flutter/simple_survey_client/.git/objects/d2/ba12ac15b5a7819c544abf89dc8ce1e664dd2c
+Flutter/simple_survey_client/.git/objects/df/
+Flutter/simple_survey_client/.git/objects/df/a2c42265ed613e73ace46406f1841701fb80c9
+Flutter/simple_survey_client/.git/objects/ec/
+Flutter/simple_survey_client/.git/objects/ec/38bb03abd513589201a75d7d84fadf5b62343a
+Flutter/simple_survey_client/.git/objects/f4/
+Flutter/simple_survey_client/.git/objects/f4/f1cb7ad7500c1eaf0d253617c875675866571b
+Flutter/simple_survey_client/.git/objects/fe/
+Flutter/simple_survey_client/.git/objects/fe/26da3ef438bacd5931156e719876db9e3a088d
+Flutter/simple_survey_client/.git/refs/heads/
+Flutter/simple_survey_client/.git/refs/heads/main
+Flutter/simple_survey_client/.vscode/settings.json
+Flutter/simple_survey_client/android/build.gradle
+Flutter/simple_survey_client/android/.gradle/7.6.3/checksums/checksums.lock
+Flutter/simple_survey_client/android/.gradle/7.6.3/checksums/md5-checksums.bin
+Flutter/simple_survey_client/android/.gradle/7.6.3/checksums/sha1-checksums.bin
+Flutter/simple_survey_client/android/.gradle/7.6.3/dependencies-accessors/dependencies-accessors.lock
+Flutter/simple_survey_client/android/.gradle/7.6.3/fileChanges/last-build.bin
+Flutter/simple_survey_client/android/.gradle/7.6.3/fileHashes/fileHashes.lock
+Flutter/simple_survey_client/android/.gradle/buildOutputCleanup/buildOutputCleanup.lock
+Flutter/simple_survey_client/android/app/
+Flutter/simple_survey_client/android/app/build.gradle
+Flutter/simple_survey_client/android/app/google-services.json
+Flutter/simple_survey_client/build/eba022fb6daca40d2dd161e42acb9c1a/gen_localizations.stamp
+Flutter/simple_survey_client/lib/main.dart
+Flutter/simple_survey_client/lib/screens/login_screen.dart
+Flutter/simple_survey_client/lib/widgets/app.dart
+Flutter/sky_survey_app/.git/
+LeetCode/.git/
+NodeJS/mwm-pms-web-react-ui-decluttered/.git/
+
+sent 9,492,652 bytes  received 37,983 bytes  174,874.04 bytes/sec
+total size is 12,583,900,080  speedup is 1,320.36
+umount: /etc/fstab: parse error at line 17 -- ignored
+umount: /mnt/plex: must be superuser to unmount.
+Failed to unmount the drive.
