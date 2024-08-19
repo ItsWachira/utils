@@ -491,3 +491,96 @@ mount: /mnt/plex: must be superuser to use mount.
 Drive mounted successfully.
 Backing up /home/oloo/Documents to /mnt/plex/BackUps
 sending incremental file list
+MINTEL SOLUTIONS LTD/sky_survey/V1/
+MINTEL SOLUTIONS LTD/sky_survey/V1/sky_survey_app(ERD).pdf
+utils/backup.log
+utils/git_auto_push.log
+utils/.git/
+utils/.git/COMMIT_EDITMSG
+utils/.git/index
+utils/.git/logs/HEAD
+utils/.git/logs/refs/heads/main
+utils/.git/objects/
+utils/.git/objects/05/
+utils/.git/objects/05/a45279323ea0e32828489bae062255dce60720
+utils/.git/objects/1e/
+utils/.git/objects/1e/79c2e501506067b941b8a3b5ac75babda7bfed
+utils/.git/objects/52/
+utils/.git/objects/52/a486cbc852d712b447d384a0c2ac800a337161
+utils/.git/objects/63/
+utils/.git/objects/63/9d50e033d0ac39f156b49b1dedcd2877823bb0
+utils/.git/objects/6a/
+utils/.git/objects/6a/66a4b22366f0cedb8c967b2ba0385c89ad4edd
+utils/.git/objects/77/
+utils/.git/objects/77/57cabf161febe3f997a67e060607a9f1aa5e1f
+utils/.git/objects/89/
+utils/.git/objects/89/a38f6640c226ee0636f2def82523d55a9f381a
+utils/.git/objects/9f/
+utils/.git/objects/9f/ba5df7e8adc4eed5ed165f6529de415036410f
+utils/.git/objects/bd/
+utils/.git/objects/bd/9f057a828c1d24fe71a6486af8e5877d6657d4
+utils/.git/objects/dc/
+utils/.git/objects/dc/08fac912399c23506af4a63999975eb41f35c5
+utils/.git/objects/fc/
+utils/.git/objects/fc/a58b168daa71a66645ac391e9aadec89f32815
+utils/.git/refs/heads/
+utils/.git/refs/heads/main
+
+sent 297,551 bytes  received 1,840 bytes  119,756.40 bytes/sec
+total size is 17,749,049,681  speedup is 59,283.85
+Backing up /home/oloo/DataGripProjects to /mnt/plex/BackUps
+sending incremental file list
+sky_survey_app/.idea/
+sky_survey_app/.idea/dataSources.local.xml
+
+sent 6,224 bytes  received 104 bytes  12,656.00 bytes/sec
+total size is 2,756,213  speedup is 435.56
+Backing up /home/oloo/IdeaProjects to /mnt/plex/BackUps
+sending incremental file list
+JavaSeedSpeedTest/.git/
+MWM_PMS-API/.git/
+MWM_PMS-BackEndAPI/.git/
+MultithreadingConnectionPools/.git/
+ORM-BasedMassDataGenerator/.git/
+Populate_MWM-PMS/.git/
+mwm_pms/.git/
+simple_survey_api/.git/
+
+sent 725,811 bytes  received 4,318 bytes  162,250.89 bytes/sec
+total size is 13,215,853,364  speedup is 18,100.71
+Backing up /home/oloo/Code to /mnt/plex/BackUps
+sending incremental file list
+DemoRPC/.git/
+Flutter/basic_quiz_app/.git/
+Flutter/expense_tracker/.git/
+Flutter/first_app/.git/
+Flutter/mwm_pms_desktopapp/.git/
+Flutter/simple_survey_client/.git/
+Flutter/simple_survey_client/.git/COMMIT_EDITMSG
+Flutter/simple_survey_client/.git/index
+Flutter/simple_survey_client/.git/logs/HEAD
+Flutter/simple_survey_client/.git/logs/refs/heads/main
+Flutter/simple_survey_client/.git/objects/
+Flutter/simple_survey_client/.git/objects/0d/
+Flutter/simple_survey_client/.git/objects/0d/5e3a0b25d1839fb9705f72593e8ffc36e46d08
+Flutter/simple_survey_client/.git/objects/52/f44c2c377fc8adf7bcef582366c35be3d27e00
+Flutter/simple_survey_client/.git/objects/b2/ddae4a75c41baaae37a7bc329ee1510e9a24d6
+Flutter/simple_survey_client/.git/objects/b8/bd87a90977f68aa4abf8965da3e5a73d9624b6
+Flutter/simple_survey_client/.git/objects/fa/fd75db97b31526dd41bc12997766b7687fde51
+Flutter/simple_survey_client/.git/refs/heads/
+Flutter/simple_survey_client/.git/refs/heads/main
+Flutter/simple_survey_client/android/.gradle/7.6.3/checksums/checksums.lock
+Flutter/simple_survey_client/android/.gradle/7.6.3/dependencies-accessors/dependencies-accessors.lock
+Flutter/simple_survey_client/android/.gradle/7.6.3/fileChanges/last-build.bin
+Flutter/simple_survey_client/android/.gradle/7.6.3/fileHashes/fileHashes.lock
+Flutter/simple_survey_client/android/.gradle/buildOutputCleanup/buildOutputCleanup.lock
+Flutter/simple_survey_client/lib/screens/login_screen.dart
+Flutter/sky_survey_app/.git/
+LeetCode/.git/
+NodeJS/mwm-pms-web-react-ui-decluttered/.git/
+
+sent 9,280,337 bytes  received 36,982 bytes  248,461.84 bytes/sec
+total size is 12,379,549,904  speedup is 1,328.66
+umount: /etc/fstab: parse error at line 17 -- ignored
+umount: /mnt/plex: must be superuser to unmount.
+Failed to unmount the drive.
