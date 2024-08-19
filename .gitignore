@@ -1,3 +1,2 @@
 .env
-backup.log
-git_auto_push.log
+*.log
