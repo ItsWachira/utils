@@ -222,3 +222,25 @@ mwm_pms/.git/
 mwm_pms/.git/config
 simple_survey_api/.git/
 simple_survey_api/.git/config
+
+sent 729,302 bytes  received 4,576 bytes  133,432.36 bytes/sec
+total size is 13,215,853,364  speedup is 18,008.24
+Backing up /home/oloo/Code to /mnt/plex/BackUps
+sending incremental file list
+Code/.git/
+Code/.git/config
+DemoRPC/.git/
+DemoRPC/.git/config
+Flutter/basic_quiz_app/.git/
+Flutter/basic_quiz_app/.git/config
+Flutter/expense_tracker/.git/
+Flutter/expense_tracker/.git/config
+Flutter/first_app/.git/
+Flutter/first_app/.git/config
+Flutter/mwm_pms_desktopapp/.git/
+Flutter/mwm_pms_desktopapp/.git/config
+Flutter/simple_survey_client/.git/
+Flutter/simple_survey_client/.git/config
+Flutter/sky_survey_app/.git/
+LeetCode/.git/
+LeetCode/.git/config
