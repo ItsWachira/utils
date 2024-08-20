@@ -11288,3 +11288,73 @@ mount: /mnt/plex: must be superuser to use mount.
 Drive mounted successfully.
 Backing up /home/oloo/Documents to /mnt/plex/BackUps
 sending incremental file list
+utils/backup.log
+utils/git_auto_push.log
+utils/.git/
+utils/.git/COMMIT_EDITMSG
+utils/.git/index
+utils/.git/logs/HEAD
+utils/.git/logs/refs/heads/main
+utils/.git/objects/
+utils/.git/objects/08/
+utils/.git/objects/08/eafe90ea40fa7bca79968da3eb523163c2f73b
+utils/.git/objects/36/
+utils/.git/objects/36/aabd665dad23d975ab44fcddd162b63620dadf
+utils/.git/objects/4d/
+utils/.git/objects/4d/d977eefdfc4d80354cbe1b9ac927b5bfa2bd8b
+utils/.git/objects/4e/
+utils/.git/objects/4e/71c71d739e133683b7988bc7671e7dcbd8d7ab
+utils/.git/objects/5b/
+utils/.git/objects/5b/f2e092be958b14d6c44d07891562dba5c9e994
+utils/.git/objects/5e/
+utils/.git/objects/5e/870dc31be23695004d5476f1a920a452e69f66
+utils/.git/objects/6f/
+utils/.git/objects/6f/40a3e5d8e251ef36d68214ecaac5cf38ca1539
+utils/.git/objects/94/
+utils/.git/objects/94/ca23a3b134dbdf581f2c0312e4a183bfc9ea91
+utils/.git/objects/98/
+utils/.git/objects/98/2d68ee18aba9eeba7e8fb22abef51885bf1a0c
+utils/.git/objects/cb/
+utils/.git/objects/cb/2705db528314bdda2074ab249e3e53f74da66a
+utils/.git/objects/f2/
+utils/.git/objects/f2/3ec4495fbbc3172406eab0c987036c531b2605
+utils/.git/refs/heads/
+utils/.git/refs/heads/main
+
+sent 2,020,599 bytes  received 1,976 bytes  367,740.91 bytes/sec
+total size is 17,753,849,030  speedup is 8,777.84
+Backing up /home/oloo/DataGripProjects to /mnt/plex/BackUps
+sending incremental file list
+
+sent 5,234 bytes  received 78 bytes  10,624.00 bytes/sec
+total size is 2,755,875  speedup is 518.80
+Backing up /home/oloo/IdeaProjects to /mnt/plex/BackUps
+sending incremental file list
+JavaSeedSpeedTest/.git/
+MWM_PMS-API/.git/
+MWM_PMS-BackEndAPI/.git/
+MultithreadingConnectionPools/.git/
+ORM-BasedMassDataGenerator/.git/
+Populate_MWM-PMS/.git/
+mwm_pms/.git/
+simple_survey_api/.git/
+
+sent 729,233 bytes  received 4,378 bytes  163,024.67 bytes/sec
+total size is 13,215,905,590  speedup is 18,014.87
+Backing up /home/oloo/Code to /mnt/plex/BackUps
+sending incremental file list
+DemoRPC/.git/
+Flutter/basic_quiz_app/.git/
+Flutter/expense_tracker/.git/
+Flutter/first_app/.git/
+Flutter/mwm_pms_desktopapp/.git/
+Flutter/simple_survey_client/.git/
+Flutter/sky_survey_app/.git/
+LeetCode/.git/
+NodeJS/mwm-pms-web-react-ui-decluttered/.git/
+
+sent 9,345,053 bytes  received 38,070 bytes  257,071.86 bytes/sec
+total size is 12,600,251,167  speedup is 1,342.86
+umount: /etc/fstab: parse error at line 17 -- ignored
+umount: /mnt/plex: must be superuser to unmount.
+Failed to unmount the drive.
