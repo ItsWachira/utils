@@ -11444,3 +11444,131 @@ mount: /mnt/plex: must be superuser to use mount.
 Drive mounted successfully.
 Backing up /home/oloo/Documents to /mnt/plex/BackUps
 sending incremental file list
+utils/
+utils/backup.log
+utils/find_git_repos.sh
+utils/git_auto_push.log
+utils/.git/
+utils/.git/COMMIT_EDITMSG
+utils/.git/FETCH_HEAD
+utils/.git/index
+utils/.git/logs/HEAD
+utils/.git/logs/refs/heads/main
+utils/.git/objects/
+utils/.git/objects/0c/
+utils/.git/objects/0c/55f78133d1692152ba841a998178a4e4059e67
+utils/.git/objects/0d/
+utils/.git/objects/0d/e55a51873c0411e020ed0df79cc41b3cb251ba
+utils/.git/objects/14/
+utils/.git/objects/14/3fff3932602fb0b090f9aedf46f40639c77d10
+utils/.git/objects/1c/
+utils/.git/objects/1c/183422648985d667ba7ea746433889636a5816
+utils/.git/objects/37/
+utils/.git/objects/37/ba1e8605f0d621ed48b7a55fdc0582dae4afc0
+utils/.git/objects/3b/
+utils/.git/objects/3b/c4a3e8055493dc7844abe29f322ef49c093848
+utils/.git/objects/4c/
+utils/.git/objects/4c/5c484d38517dfdba028ac1a6201ba6f9b83371
+utils/.git/objects/5a/
+utils/.git/objects/5a/04580c75d3f7f4bc350d0c867fd0e7dbeafd22
+utils/.git/objects/64/
+utils/.git/objects/64/a0e8383142cebd72ef410c04d9fea28f942049
+utils/.git/objects/77/
+utils/.git/objects/77/bdcc6d77139c4d523c9368a13f8d2bc24ed6b1
+utils/.git/objects/e2/
+utils/.git/objects/e2/2d48576a6fa530158d0970badbc8d46f1552f3
+utils/.git/objects/f7/
+utils/.git/objects/f7/234d8d655a2fc8d3647909cde7a92519dfcddd
+utils/.git/refs/heads/
+utils/.git/refs/heads/main
+
+sent 2,072,465 bytes  received 2,032 bytes  377,181.27 bytes/sec
+total size is 17,754,397,226  speedup is 8,558.41
+Backing up /home/oloo/DataGripProjects to /mnt/plex/BackUps
+sending incremental file list
+
+sent 5,234 bytes  received 78 bytes  10,624.00 bytes/sec
+total size is 2,755,875  speedup is 518.80
+Backing up /home/oloo/IdeaProjects to /mnt/plex/BackUps
+sending incremental file list
+JavaSeedSpeedTest/.git/
+MWM_PMS-API/.git/
+MWM_PMS-BackEndAPI/.git/
+MultithreadingConnectionPools/.git/
+ORM-BasedMassDataGenerator/.git/
+Populate_MWM-PMS/.git/
+mwm_pms/.git/
+simple_survey_api/.git/
+
+sent 729,227 bytes  received 4,378 bytes  133,382.73 bytes/sec
+total size is 13,215,905,590  speedup is 18,015.02
+Backing up /home/oloo/Code to /mnt/plex/BackUps
+sending incremental file list
+DemoRPC/.git/
+Flutter/basic_quiz_app/.git/
+Flutter/expense_tracker/.git/
+Flutter/first_app/.git/
+Flutter/mwm_pms_desktopapp/.git/
+Flutter/simple_survey_client/.flutter-plugins
+Flutter/simple_survey_client/.flutter-plugins-dependencies
+Flutter/simple_survey_client/.dart_tool/dartpad/web_plugin_registrant.dart
+Flutter/simple_survey_client/.git/
+Flutter/simple_survey_client/.git/FETCH_HEAD
+Flutter/simple_survey_client/.git/index
+Flutter/simple_survey_client/android/.gradle/file-system.probe
+Flutter/simple_survey_client/android/.gradle/7.6.3/checksums/checksums.lock
+Flutter/simple_survey_client/android/.gradle/7.6.3/dependencies-accessors/dependencies-accessors.lock
+Flutter/simple_survey_client/android/.gradle/7.6.3/executionHistory/executionHistory.bin
+Flutter/simple_survey_client/android/.gradle/7.6.3/executionHistory/executionHistory.lock
+Flutter/simple_survey_client/android/.gradle/7.6.3/fileChanges/last-build.bin
+Flutter/simple_survey_client/android/.gradle/7.6.3/fileHashes/fileHashes.bin
+Flutter/simple_survey_client/android/.gradle/7.6.3/fileHashes/fileHashes.lock
+Flutter/simple_survey_client/android/.gradle/buildOutputCleanup/buildOutputCleanup.lock
+Flutter/simple_survey_client/android/.gradle/buildOutputCleanup/outputFiles.bin
+Flutter/simple_survey_client/android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java
+Flutter/simple_survey_client/build/app/intermediates/assets/
+Flutter/simple_survey_client/build/app/intermediates/assets/release/
+Flutter/simple_survey_client/build/app/intermediates/assets/release/flutter_assets/
+Flutter/simple_survey_client/build/app/intermediates/assets/release/flutter_assets/AssetManifest.bin
+Flutter/simple_survey_client/build/app/intermediates/assets/release/flutter_assets/AssetManifest.json
+Flutter/simple_survey_client/build/app/intermediates/assets/release/flutter_assets/FontManifest.json
+Flutter/simple_survey_client/build/app/intermediates/assets/release/flutter_assets/NOTICES.Z
+Flutter/simple_survey_client/build/app/intermediates/assets/release/flutter_assets/assets/
+Flutter/simple_survey_client/build/app/intermediates/assets/release/flutter_assets/assets/images/
+Flutter/simple_survey_client/build/app/intermediates/assets/release/flutter_assets/assets/images/quiz-logo.png
+Flutter/simple_survey_client/build/app/intermediates/assets/release/flutter_assets/fonts/
+Flutter/simple_survey_client/build/app/intermediates/assets/release/flutter_assets/fonts/MaterialIcons-Regular.otf
+Flutter/simple_survey_client/build/app/intermediates/assets/release/flutter_assets/packages/
+Flutter/simple_survey_client/build/app/intermediates/assets/release/flutter_assets/packages/cupertino_icons/
+Flutter/simple_survey_client/build/app/intermediates/assets/release/flutter_assets/packages/cupertino_icons/assets/
+Flutter/simple_survey_client/build/app/intermediates/assets/release/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+Flutter/simple_survey_client/build/app/intermediates/assets/release/flutter_assets/shaders/
+Flutter/simple_survey_client/build/app/intermediates/assets/release/flutter_assets/shaders/ink_sparkle.frag
+Flutter/simple_survey_client/build/app/intermediates/incremental/mergeReleaseAssets/merger.xml
+Flutter/simple_survey_client/build/app/kotlin/compileReleaseKotlin/cacheable/
+Flutter/simple_survey_client/build/app/kotlin/compileReleaseKotlin/cacheable/dirty-sources.txt
+Flutter/simple_survey_client/build/app/kotlin/compileReleaseKotlin/cacheable/caches-jvm/
+Flutter/simple_survey_client/build/app/kotlin/compileReleaseKotlin/cacheable/caches-jvm/inputs/
+Flutter/simple_survey_client/build/app/kotlin/compileReleaseKotlin/cacheable/caches-jvm/jvm/
+Flutter/simple_survey_client/build/app/kotlin/compileReleaseKotlin/cacheable/caches-jvm/lookups/
+Flutter/simple_survey_client/build/app/kotlin/compileReleaseKotlin/local-state/
+Flutter/simple_survey_client/build/app/kotlin/compileReleaseKotlin/local-state/build-history.bin
+Flutter/simple_survey_client/build/kotlin/sessions/
+Flutter/simple_survey_client/ios/Runner/GeneratedPluginRegistrant.h
+Flutter/simple_survey_client/ios/Runner/GeneratedPluginRegistrant.m
+Flutter/simple_survey_client/linux/flutter/generated_plugin_registrant.cc
+Flutter/simple_survey_client/linux/flutter/generated_plugin_registrant.h
+Flutter/simple_survey_client/linux/flutter/generated_plugins.cmake
+Flutter/simple_survey_client/macos/Flutter/GeneratedPluginRegistrant.swift
+Flutter/simple_survey_client/windows/flutter/generated_plugin_registrant.cc
+Flutter/simple_survey_client/windows/flutter/generated_plugin_registrant.h
+Flutter/simple_survey_client/windows/flutter/generated_plugins.cmake
+Flutter/sky_survey_app/.git/
+LeetCode/.git/
+NodeJS/mwm-pms-web-react-ui-decluttered/.git/
+
+sent 18,436,149 bytes  received 38,829 bytes  445,180.19 bytes/sec
+total size is 12,600,251,058  speedup is 682.02
+umount: /etc/fstab: parse error at line 17 -- ignored
+umount: /mnt/plex: must be superuser to unmount.
+Failed to unmount the drive.
