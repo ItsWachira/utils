@@ -11439,3 +11439,8 @@ total size is 12,600,251,167  speedup is 1,342.86
 umount: /etc/fstab: parse error at line 17 -- ignored
 umount: /mnt/plex: must be superuser to unmount.
 Failed to unmount the drive.
+mount: /mnt/plex: must be superuser to use mount.
+       dmesg(1) may have more information after failed mount system call.
+Drive mounted successfully.
+Backing up /home/oloo/Documents to /mnt/plex/BackUps
+sending incremental file list
