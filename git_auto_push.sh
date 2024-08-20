@@ -2,27 +2,8 @@
 
 source /home/oloo/Documents/utils/.env
 
-# Array of repository paths
-REPO_PATHS=(
-  "/home/oloo/IdeaProjects/JavaSeedSpeedTest"
-  "/home/oloo/IdeaProjects/MultithreadingConnectionPools"
-  "/home/oloo/IdeaProjects/ORM-BasedMassDataGenerator"
-  "/home/oloo/IdeaProjects/Populate_MWM-PMS"
-  "/home/oloo/IdeaProjects/MWM_PMS-BackEndAPI"
-  "/home/oloo/IdeaProjects/MWM_PMS-API"
-  "/home/oloo/IdeaProjects/mwm_pms"
-  "/home/oloo/IdeaProjects/simple_survey_api"
-  "/home/oloo/Code/Flutter/mwm_pms_desktopapp"
-  "/home/oloo/Code/Flutter/first_app"
-  "/home/oloo/Code/Flutter/basic_quiz_app"
-  "/home/oloo/Code/Flutter/expense_tracker"
-  "/home/oloo/Code/NodeJS/mwm-pms-web-react-ui-decluttered"
-  "/home/oloo/Code/LeetCode"
-  "/home/oloo/Code/DemoRPC"
-  "/home/oloo/Code/Flutter/sky_survey_app"
-  "/home/oloo/Code/Flutter/simple_survey_client"
-  "/home/oloo/Documents/utils"
-)
+# File containing repository paths
+REPO_FILE="repositories.txt"
 
 # Commit messages array
 COMMITS=(
@@ -36,8 +17,8 @@ print_timestamp() {
   echo "[$(date '+%Y-%m-%d %H:%M:%S')]"
 }
 
-# Loop through each repository
-for REPO_PATH in "${REPO_PATHS[@]}"; do
+# Read each line from the repositories file and process it as a repository path
+while IFS= read -r REPO_PATH || [[ -n "$REPO_PATH" ]]; do
   echo "-------------------------------------------------"
   print_timestamp
   echo "Processing repository at $REPO_PATH"
@@ -71,5 +52,4 @@ for REPO_PATH in "${REPO_PATHS[@]}"; do
 
   echo "-------------------------------------------------"
   echo ""
-done
-
+done < "$REPO_FILE"
